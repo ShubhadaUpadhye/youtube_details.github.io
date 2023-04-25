@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>comments</title>
+
+    <style>
+        h3 {
+        margin-bottom:0;
+        }
+        h3 {
+        margin-top:0;
+        }
+         h4 {
+        margin-bottom:0;
+        }
+        h4 {
+        margin-top:0;
+        }
+        h1{text-align:center;}
+        body {
+			 background:linear-gradient(to top right,#A1FFCE 0%, #FAFFD1 100% );
+		}
+
+    </style>
+
+</head>
+<body>
+        <h2>Youtube_Video_comments</h2>
+
+     <a href="/hello"></a>
+         <a href="/download_images"><h4 style="text-align:right;">click here to view Thumbnails download page</h4></a>
+
+               {% for documents in data %}
+                <h4>{{documents.sl_no}}</h4>
+                <h3>{{documents.title}}</h3>
+                    <h4>Names:</h4>
+                    {{documents.names}}
+                    <h4>Comments:</h4>
+                {{documents.comments}}
+                    {% endfor %}
+        <a href="/download_images"><h4 style="text-align:left;">click here to view Thumbnails download page</h4></a>
+
+
+</body>
+</html>

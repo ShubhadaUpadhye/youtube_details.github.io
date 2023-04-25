@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>download_page</title>
+    <style>
+        table {
+			border-collapse: collapse;
+			border: 2px solid black;
+		}
+		th, td {
+			border: 2px solid black;
+			padding: 5px;
+		}
+		body {
+			background: linear-gradient(to top right,#d9a7c7 0%,#fffcdc 100%);
+		}
+		h2{text-align:center;}
+
+         h4 {
+
+        margin-bottom:0;
+        }
+        h4 {
+        margin-top:0%;
+        }
+        p{margin-left:0%;
+        margin-top:3%;
+        font-size:18px}
+    </style>
+</head>
+<body>
+                <h2 >Youtube_Thumbnail_Images</h2>
+                <p>< Right click on image and select "save as" to save the image ></p>
+                <h4 style="text-align:right;"><a href="/video">Click here to go back to videos_statistics page</a></h4>
+                <br>
+                <table align="center">
+
+                    <tr>
+                        <th>Title of Videos</th>
+                        <th>Thumbnail images</th>
+
+                    </tr>
+                    <tr>
+                        {% for images in data %}
+                        <td>"{{images[0]}}"</td>
+                        <td><img src="{{images[1]}}" alt="Thumbnail"></td>
+                    </tr>
+                    {% endfor %}
+                </table>
+                <h4 style="text-align:left;"><a href="/video">Click here to go back to videos_statistics page</a></h4>
+</body>
+</html>

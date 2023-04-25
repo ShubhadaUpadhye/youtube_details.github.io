@@ -1,0 +1,2568 @@
+2023-04-21 15:41:01,897 INFO
+2023-04-21 15:41:01,897 INFO
+2023-04-21 15:41:01,897 INFO
+2023-04-21 15:41:04,085 WARNING
+2023-04-21 15:41:04,085 INFO
+2023-04-21 15:42:26,683 INFO
+2023-04-21 15:42:26,683 INFO
+2023-04-21 15:42:26,683 INFO
+2023-04-21 15:42:30,933 WARNING
+2023-04-21 15:42:30,948 INFO
+INFO 2023-04-21 15:44:50,526 werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2023-04-21 15:44:50,526 werkzeug [33mPress CTRL+C to quit[0m
+INFO 2023-04-21 15:44:50,526 werkzeug  * Restarting with stat
+WARNING 2023-04-21 15:44:54,917 werkzeug  * Debugger is active!
+INFO 2023-04-21 15:44:54,932 werkzeug  * Debugger PIN: 481-872-290
+INFO 2023-04-21 15:46:07,660 werkzeug 127.0.0.1 - - [21/Apr/2023 15:46:07] "GET / HTTP/1.1" 200 -
+INFO 2023-04-21 15:47:05,129 werkzeug 127.0.0.1 - - [21/Apr/2023 15:47:05] "POST /channel HTTP/1.1" 200 -
+INFO 2023-04-21 15:47:32,200 werkzeug 127.0.0.1 - - [21/Apr/2023 15:47:32] "GET /video HTTP/1.1" 200 -
+INFO 2023-04-21 15:55:25,538 werkzeug  * Detected change in 'C:\\Users\\Lenovo\\PycharmProjects\\pythonProject5\\app.py', reloading
+INFO 2023-04-21 15:55:26,118 werkzeug  * Restarting with stat
+WARNING 2023-04-21 15:55:28,930 werkzeug  * Debugger is active!
+INFO 2023-04-21 15:55:28,930 werkzeug  * Debugger PIN: 481-872-290
+INFO 2023-04-21 15:55:55,086 werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2023-04-21 15:55:55,086 werkzeug [33mPress CTRL+C to quit[0m
+INFO 2023-04-21 15:55:55,086 werkzeug  * Restarting with stat
+WARNING 2023-04-21 15:55:57,476 werkzeug  * Debugger is active!
+INFO 2023-04-21 15:55:57,492 werkzeug  * Debugger PIN: 481-872-290
+INFO 2023-04-21 15:56:08,068 werkzeug 127.0.0.1 - - [21/Apr/2023 15:56:08] "GET / HTTP/1.1" 200 -
+INFO 2023-04-21 15:57:10,585 werkzeug 127.0.0.1 - - [21/Apr/2023 15:57:10] "POST /channel HTTP/1.1" 200 -
+INFO 2023-04-21 15:58:53,534 werkzeug 127.0.0.1 - - [21/Apr/2023 15:58:53] "GET /video HTTP/1.1" 200 -
+INFO 2023-04-21 15:58:55,881 werkzeug 127.0.0.1 - - [21/Apr/2023 15:58:55] "GET /comments HTTP/1.1" 200 -
+INFO 2023-04-21 15:59:06,149 werkzeug 127.0.0.1 - - [21/Apr/2023 15:59:06] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 16:02:05,894 werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2023-04-21 16:02:05,894 werkzeug [33mPress CTRL+C to quit[0m
+INFO 2023-04-21 16:02:05,894 werkzeug  * Restarting with stat
+WARNING 2023-04-21 16:02:09,285 werkzeug  * Debugger is active!
+INFO 2023-04-21 16:02:09,300 werkzeug  * Debugger PIN: 481-872-290
+INFO 2023-04-21 16:04:29,652 werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2023-04-21 16:04:29,652 werkzeug [33mPress CTRL+C to quit[0m
+INFO 2023-04-21 16:04:29,652 werkzeug  * Restarting with stat
+WARNING 2023-04-21 16:04:33,058 werkzeug  * Debugger is active!
+INFO 2023-04-21 16:04:33,089 werkzeug  * Debugger PIN: 481-872-290
+INFO 2023-04-21 19:01:17,391 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-21 19:01:17,516 app True
+INFO 2023-04-21 19:01:17,531 app database created
+INFO 2023-04-21 19:01:17,531 app channel table created
+INFO 2023-04-21 19:01:17,531 app videos table created
+INFO 2023-04-21 19:01:17,531 app Connecting to mongodb
+INFO 2023-04-21 19:01:19,094 werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2023-04-21 19:01:19,094 werkzeug [33mPress CTRL+C to quit[0m
+INFO 2023-04-21 19:01:19,110 werkzeug  * Restarting with stat
+INFO 2023-04-21 19:01:20,563 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-21 19:01:20,594 app True
+INFO 2023-04-21 19:01:20,609 app database created
+INFO 2023-04-21 19:01:20,609 app channel table created
+INFO 2023-04-21 19:01:20,609 app videos table created
+INFO 2023-04-21 19:01:20,609 app Connecting to mongodb
+WARNING 2023-04-21 19:01:22,063 werkzeug  * Debugger is active!
+INFO 2023-04-21 19:01:22,078 werkzeug  * Debugger PIN: 481-872-290
+INFO 2023-04-21 19:03:10,260 werkzeug 127.0.0.1 - - [21/Apr/2023 19:03:10] "GET / HTTP/1.1" 200 -
+INFO 2023-04-21 19:03:17,116 app ['UCkGS_3D0HEzfflFnG0bD24A']
+INFO 2023-04-21 19:03:18,749 app inserting video details in mysql_table
+INFO 2023-04-21 19:03:18,757 app videos data inserted into mysql table
+INFO 2023-04-21 19:03:18,757 app fetching comments commentors on videos
+INFO 2023-04-21 19:03:19,069 app inserting data into Mongodb
+INFO 2023-04-21 19:03:19,157 app data inserted in mongodb
+INFO 2023-04-21 19:03:19,813 app inserting video details in mysql_table
+INFO 2023-04-21 19:03:19,813 app videos data inserted into mysql table
+INFO 2023-04-21 19:03:19,813 app fetching comments commentors on videos
+INFO 2023-04-21 19:03:20,053 app inserting data into Mongodb
+INFO 2023-04-21 19:03:20,125 app data inserted in mongodb
+INFO 2023-04-21 19:03:20,765 app inserting video details in mysql_table
+INFO 2023-04-21 19:03:20,781 app videos data inserted into mysql table
+INFO 2023-04-21 19:03:20,781 app fetching comments commentors on videos
+INFO 2023-04-21 19:03:21,053 app inserting data into Mongodb
+INFO 2023-04-21 19:03:21,125 app data inserted in mongodb
+INFO 2023-04-21 19:03:21,781 app inserting video details in mysql_table
+INFO 2023-04-21 19:03:21,789 app videos data inserted into mysql table
+INFO 2023-04-21 19:03:21,789 app fetching comments commentors on videos
+INFO 2023-04-21 19:03:21,949 app inserting data into Mongodb
+INFO 2023-04-21 19:03:22,021 app data inserted in mongodb
+INFO 2023-04-21 19:03:22,677 app inserting video details in mysql_table
+INFO 2023-04-21 19:03:22,677 app videos data inserted into mysql table
+INFO 2023-04-21 19:03:22,685 app fetching comments commentors on videos
+ERROR 2023-04-21 19:03:52,769 app <HttpError 503 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=replies%2Csnippet&videoId=9YyR7uPhxgU&maxResults=100&key=AIzaSyB7og-sgYVOcVbnnqZ4xpWhibsSR3F82gQ&alt=json returned "The service is currently unavailable.". Details: "[{'message': 'The service is currently unavailable.', 'domain': 'global', 'reason': 'backendError'}]">
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 225, in comment_thread
+    response = request.execute()
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\googleapiclient\_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\googleapiclient\http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 503 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=replies%2Csnippet&videoId=9YyR7uPhxgU&maxResults=100&key=AIzaSyB7og-sgYVOcVbnnqZ4xpWhibsSR3F82gQ&alt=json returned "The service is currently unavailable.". Details: "[{'message': 'The service is currently unavailable.', 'domain': 'global', 'reason': 'backendError'}]">
+INFO 2023-04-21 19:03:52,841 werkzeug 127.0.0.1 - - [21/Apr/2023 19:03:52] "[35m[1mPOST /channel HTTP/1.1[0m" 500 -
+INFO 2023-04-21 19:03:52,913 werkzeug 127.0.0.1 - - [21/Apr/2023 19:03:52] "[36mGET /channel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO 2023-04-21 19:03:52,913 werkzeug 127.0.0.1 - - [21/Apr/2023 19:03:52] "[36mGET /channel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO 2023-04-21 19:03:52,953 werkzeug 127.0.0.1 - - [21/Apr/2023 19:03:52] "[36mGET /channel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO 2023-04-21 19:05:52,167 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-21 19:05:52,214 app True
+INFO 2023-04-21 19:05:52,229 app database created
+INFO 2023-04-21 19:05:52,229 app channel table created
+INFO 2023-04-21 19:05:52,229 app videos table created
+INFO 2023-04-21 19:05:52,229 app Connecting to mongodb
+INFO 2023-04-21 19:05:53,432 werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2023-04-21 19:05:53,432 werkzeug [33mPress CTRL+C to quit[0m
+INFO 2023-04-21 19:05:53,448 werkzeug  * Restarting with stat
+INFO 2023-04-21 19:05:54,682 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-21 19:05:54,713 app True
+INFO 2023-04-21 19:05:54,729 app database created
+INFO 2023-04-21 19:05:54,729 app channel table created
+INFO 2023-04-21 19:05:54,729 app videos table created
+INFO 2023-04-21 19:05:54,729 app Connecting to mongodb
+WARNING 2023-04-21 19:05:55,573 werkzeug  * Debugger is active!
+INFO 2023-04-21 19:05:55,604 werkzeug  * Debugger PIN: 481-872-290
+INFO 2023-04-21 20:05:06,230 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-21 20:05:06,386 app True
+INFO 2023-04-21 20:05:06,418 app database created
+INFO 2023-04-21 20:05:06,418 app channel table created
+INFO 2023-04-21 20:05:06,418 app videos table created
+INFO 2023-04-21 20:05:06,418 app Connecting to mongodb
+INFO 2023-04-21 20:05:07,590 werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2023-04-21 20:05:07,590 werkzeug [33mPress CTRL+C to quit[0m
+INFO 2023-04-21 20:05:07,605 werkzeug  * Restarting with stat
+INFO 2023-04-21 20:05:08,793 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-21 20:05:08,824 app True
+INFO 2023-04-21 20:05:08,839 app database created
+INFO 2023-04-21 20:05:08,839 app channel table created
+INFO 2023-04-21 20:05:08,839 app videos table created
+INFO 2023-04-21 20:05:08,839 app Connecting to mongodb
+WARNING 2023-04-21 20:05:10,011 werkzeug  * Debugger is active!
+INFO 2023-04-21 20:05:10,027 werkzeug  * Debugger PIN: 481-872-290
+INFO 2023-04-21 20:05:39,501 werkzeug 127.0.0.1 - - [21/Apr/2023 20:05:39] "GET / HTTP/1.1" 200 -
+INFO 2023-04-21 20:05:47,018 app ['UC59K-uG2A5ogwIrHw4bmlEg']
+INFO 2023-04-21 20:05:48,450 app inserting video details in mysql_table
+INFO 2023-04-21 20:05:48,460 app videos data inserted into mysql table
+INFO 2023-04-21 20:05:48,460 app fetching comments commentors on videos
+INFO 2023-04-21 20:05:48,576 app inserting data into Mongodb
+ERROR 2023-04-21 20:05:48,580 app local variable 'mongo_dict' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 249, in channel
+    my_coll.insert_one(mongo_dict)
+UnboundLocalError: local variable 'mongo_dict' referenced before assignment
+INFO 2023-04-21 20:05:48,632 werkzeug 127.0.0.1 - - [21/Apr/2023 20:05:48] "[35m[1mPOST /channel HTTP/1.1[0m" 500 -
+INFO 2023-04-21 20:05:48,673 werkzeug 127.0.0.1 - - [21/Apr/2023 20:05:48] "[36mGET /channel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO 2023-04-21 20:05:48,686 werkzeug 127.0.0.1 - - [21/Apr/2023 20:05:48] "[36mGET /channel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO 2023-04-21 20:05:48,766 werkzeug 127.0.0.1 - - [21/Apr/2023 20:05:48] "[36mGET /channel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO 2023-04-21 20:07:51,801 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-21 20:07:51,832 app True
+INFO 2023-04-21 20:07:51,848 app database created
+INFO 2023-04-21 20:07:51,848 app channel table created
+INFO 2023-04-21 20:07:51,848 app videos table created
+INFO 2023-04-21 20:07:51,848 app Connecting to mongodb
+INFO 2023-04-21 20:07:53,145 werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2023-04-21 20:07:53,145 werkzeug [33mPress CTRL+C to quit[0m
+INFO 2023-04-21 20:07:53,145 werkzeug  * Restarting with stat
+INFO 2023-04-21 20:07:54,332 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-21 20:07:54,363 app True
+INFO 2023-04-21 20:07:54,363 app database created
+INFO 2023-04-21 20:07:54,363 app channel table created
+INFO 2023-04-21 20:07:54,363 app videos table created
+INFO 2023-04-21 20:07:54,363 app Connecting to mongodb
+WARNING 2023-04-21 20:07:55,332 werkzeug  * Debugger is active!
+INFO 2023-04-21 20:07:55,348 werkzeug  * Debugger PIN: 481-872-290
+INFO 2023-04-21 20:08:09,793 app ['UC59K-uG2A5ogwIrHw4bmlEg']
+INFO 2023-04-21 20:08:11,255 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:11,264 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:11,264 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:11,384 app inserting data into Mongodb
+ERROR 2023-04-21 20:08:11,384 app local variable 'mongo_dict' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 249, in channel
+    my_coll.insert_one(mongo_dict)
+UnboundLocalError: local variable 'mongo_dict' referenced before assignment
+INFO 2023-04-21 20:08:11,997 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:12,001 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:12,001 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:12,183 app inserting data into Mongodb
+INFO 2023-04-21 20:08:12,275 app data inserted in mongodb
+INFO 2023-04-21 20:08:12,881 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:12,887 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:12,888 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:13,033 app inserting data into Mongodb
+INFO 2023-04-21 20:08:13,109 app data inserted in mongodb
+INFO 2023-04-21 20:08:13,711 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:13,716 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:13,717 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:13,871 app inserting data into Mongodb
+INFO 2023-04-21 20:08:13,943 app data inserted in mongodb
+INFO 2023-04-21 20:08:14,560 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:14,565 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:14,566 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:14,701 app inserting data into Mongodb
+INFO 2023-04-21 20:08:14,784 app data inserted in mongodb
+INFO 2023-04-21 20:08:15,364 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:15,369 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:15,370 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:15,501 app inserting data into Mongodb
+INFO 2023-04-21 20:08:15,575 app data inserted in mongodb
+INFO 2023-04-21 20:08:16,241 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:16,245 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:16,245 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:16,515 app inserting data into Mongodb
+INFO 2023-04-21 20:08:16,598 app data inserted in mongodb
+INFO 2023-04-21 20:08:17,215 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:17,219 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:17,219 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:17,330 app inserting data into Mongodb
+ERROR 2023-04-21 20:08:17,418 app E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fd8e76e014e093546af') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fd8e76e014e093546af') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429fd8e76e014e093546af')}}
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 249, in channel
+    my_coll.insert_one(mongo_dict)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 628, in insert_one
+    self._insert_one(
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 569, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1476, in _retryable_write
+    return self._retry_with_session(retryable, func, s, None)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1349, in _retry_with_session
+    return self._retry_internal(retryable, func, session, bulk)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\_csot.py", line 105, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1390, in _retry_internal
+    return func(session, sock_info, retryable)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 567, in _insert_command
+    _check_write_command_response(result)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 217, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 189, in _raise_last_write_error
+    raise DuplicateKeyError(error.get("errmsg"), 11000, error)
+pymongo.errors.DuplicateKeyError: E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fd8e76e014e093546af') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fd8e76e014e093546af') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429fd8e76e014e093546af')}}
+INFO 2023-04-21 20:08:18,030 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:18,035 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:18,035 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:18,175 app inserting data into Mongodb
+INFO 2023-04-21 20:08:18,271 app data inserted in mongodb
+INFO 2023-04-21 20:08:18,838 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:18,845 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:18,845 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:19,005 app inserting data into Mongodb
+INFO 2023-04-21 20:08:19,086 app data inserted in mongodb
+INFO 2023-04-21 20:08:19,679 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:19,684 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:19,684 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:19,872 app inserting data into Mongodb
+INFO 2023-04-21 20:08:19,928 app data inserted in mongodb
+INFO 2023-04-21 20:08:20,516 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:20,522 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:20,522 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:20,694 app inserting data into Mongodb
+INFO 2023-04-21 20:08:20,758 app data inserted in mongodb
+INFO 2023-04-21 20:08:21,352 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:21,358 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:21,358 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:21,482 app inserting data into Mongodb
+ERROR 2023-04-21 20:08:21,547 app E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fdce76e014e093546b3') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fdce76e014e093546b3') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429fdce76e014e093546b3')}}
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 249, in channel
+    my_coll.insert_one(mongo_dict)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 628, in insert_one
+    self._insert_one(
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 569, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1476, in _retryable_write
+    return self._retry_with_session(retryable, func, s, None)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1349, in _retry_with_session
+    return self._retry_internal(retryable, func, session, bulk)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\_csot.py", line 105, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1390, in _retry_internal
+    return func(session, sock_info, retryable)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 567, in _insert_command
+    _check_write_command_response(result)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 217, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 189, in _raise_last_write_error
+    raise DuplicateKeyError(error.get("errmsg"), 11000, error)
+pymongo.errors.DuplicateKeyError: E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fdce76e014e093546b3') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fdce76e014e093546b3') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429fdce76e014e093546b3')}}
+INFO 2023-04-21 20:08:22,125 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:22,131 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:22,131 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:22,263 app inserting data into Mongodb
+INFO 2023-04-21 20:08:22,343 app data inserted in mongodb
+INFO 2023-04-21 20:08:23,014 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:23,021 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:23,021 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:23,205 app inserting data into Mongodb
+INFO 2023-04-21 20:08:23,279 app data inserted in mongodb
+INFO 2023-04-21 20:08:24,045 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:24,052 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:24,053 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:24,202 app inserting data into Mongodb
+INFO 2023-04-21 20:08:24,281 app data inserted in mongodb
+INFO 2023-04-21 20:08:24,956 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:24,962 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:24,963 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:25,112 app inserting data into Mongodb
+INFO 2023-04-21 20:08:25,186 app data inserted in mongodb
+INFO 2023-04-21 20:08:25,965 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:25,970 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:25,970 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:26,115 app inserting data into Mongodb
+INFO 2023-04-21 20:08:26,208 app data inserted in mongodb
+INFO 2023-04-21 20:08:27,205 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:27,208 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:27,209 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:27,371 app inserting data into Mongodb
+INFO 2023-04-21 20:08:27,457 app data inserted in mongodb
+INFO 2023-04-21 20:08:28,066 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:28,071 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:28,071 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:28,212 app inserting data into Mongodb
+INFO 2023-04-21 20:08:28,290 app data inserted in mongodb
+INFO 2023-04-21 20:08:28,865 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:28,870 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:28,870 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:29,005 app inserting data into Mongodb
+INFO 2023-04-21 20:08:29,088 app data inserted in mongodb
+INFO 2023-04-21 20:08:29,704 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:29,709 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:29,709 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:29,863 app inserting data into Mongodb
+INFO 2023-04-21 20:08:29,971 app data inserted in mongodb
+INFO 2023-04-21 20:08:30,601 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:30,607 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:30,607 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:30,911 app inserting data into Mongodb
+INFO 2023-04-21 20:08:30,984 app data inserted in mongodb
+INFO 2023-04-21 20:08:31,536 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:31,542 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:31,543 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:31,736 app inserting data into Mongodb
+INFO 2023-04-21 20:08:31,802 app data inserted in mongodb
+INFO 2023-04-21 20:08:32,371 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:32,378 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:32,378 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:32,487 app inserting data into Mongodb
+ERROR 2023-04-21 20:08:32,555 app E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fe7e76e014e093546be') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fe7e76e014e093546be') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429fe7e76e014e093546be')}}
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 249, in channel
+    my_coll.insert_one(mongo_dict)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 628, in insert_one
+    self._insert_one(
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 569, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1476, in _retryable_write
+    return self._retry_with_session(retryable, func, s, None)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1349, in _retry_with_session
+    return self._retry_internal(retryable, func, session, bulk)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\_csot.py", line 105, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1390, in _retry_internal
+    return func(session, sock_info, retryable)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 567, in _insert_command
+    _check_write_command_response(result)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 217, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 189, in _raise_last_write_error
+    raise DuplicateKeyError(error.get("errmsg"), 11000, error)
+pymongo.errors.DuplicateKeyError: E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fe7e76e014e093546be') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fe7e76e014e093546be') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429fe7e76e014e093546be')}}
+INFO 2023-04-21 20:08:33,190 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:33,193 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:33,193 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:33,310 app inserting data into Mongodb
+ERROR 2023-04-21 20:08:33,381 app E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fe7e76e014e093546be') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fe7e76e014e093546be') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429fe7e76e014e093546be')}}
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 249, in channel
+    my_coll.insert_one(mongo_dict)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 628, in insert_one
+    self._insert_one(
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 569, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1476, in _retryable_write
+    return self._retry_with_session(retryable, func, s, None)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1349, in _retry_with_session
+    return self._retry_internal(retryable, func, session, bulk)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\_csot.py", line 105, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1390, in _retry_internal
+    return func(session, sock_info, retryable)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 567, in _insert_command
+    _check_write_command_response(result)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 217, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 189, in _raise_last_write_error
+    raise DuplicateKeyError(error.get("errmsg"), 11000, error)
+pymongo.errors.DuplicateKeyError: E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fe7e76e014e093546be') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fe7e76e014e093546be') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429fe7e76e014e093546be')}}
+INFO 2023-04-21 20:08:33,989 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:33,993 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:33,994 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:34,119 app inserting data into Mongodb
+ERROR 2023-04-21 20:08:34,204 app E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fe7e76e014e093546be') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fe7e76e014e093546be') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429fe7e76e014e093546be')}}
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 249, in channel
+    my_coll.insert_one(mongo_dict)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 628, in insert_one
+    self._insert_one(
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 569, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1476, in _retryable_write
+    return self._retry_with_session(retryable, func, s, None)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1349, in _retry_with_session
+    return self._retry_internal(retryable, func, session, bulk)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\_csot.py", line 105, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1390, in _retry_internal
+    return func(session, sock_info, retryable)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 567, in _insert_command
+    _check_write_command_response(result)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 217, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 189, in _raise_last_write_error
+    raise DuplicateKeyError(error.get("errmsg"), 11000, error)
+pymongo.errors.DuplicateKeyError: E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fe7e76e014e093546be') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fe7e76e014e093546be') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429fe7e76e014e093546be')}}
+INFO 2023-04-21 20:08:34,796 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:34,799 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:34,799 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:34,918 app inserting data into Mongodb
+ERROR 2023-04-21 20:08:35,003 app E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fe7e76e014e093546be') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fe7e76e014e093546be') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429fe7e76e014e093546be')}}
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 249, in channel
+    my_coll.insert_one(mongo_dict)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 628, in insert_one
+    self._insert_one(
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 569, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1476, in _retryable_write
+    return self._retry_with_session(retryable, func, s, None)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1349, in _retry_with_session
+    return self._retry_internal(retryable, func, session, bulk)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\_csot.py", line 105, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1390, in _retry_internal
+    return func(session, sock_info, retryable)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 567, in _insert_command
+    _check_write_command_response(result)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 217, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 189, in _raise_last_write_error
+    raise DuplicateKeyError(error.get("errmsg"), 11000, error)
+pymongo.errors.DuplicateKeyError: E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fe7e76e014e093546be') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fe7e76e014e093546be') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429fe7e76e014e093546be')}}
+INFO 2023-04-21 20:08:35,625 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:35,632 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:35,632 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:35,847 app inserting data into Mongodb
+INFO 2023-04-21 20:08:35,918 app data inserted in mongodb
+INFO 2023-04-21 20:08:36,524 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:36,529 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:36,529 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:36,640 app inserting data into Mongodb
+ERROR 2023-04-21 20:08:36,709 app E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429febe76e014e093546bf') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429febe76e014e093546bf') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429febe76e014e093546bf')}}
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 249, in channel
+    my_coll.insert_one(mongo_dict)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 628, in insert_one
+    self._insert_one(
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 569, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1476, in _retryable_write
+    return self._retry_with_session(retryable, func, s, None)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1349, in _retry_with_session
+    return self._retry_internal(retryable, func, session, bulk)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\_csot.py", line 105, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1390, in _retry_internal
+    return func(session, sock_info, retryable)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 567, in _insert_command
+    _check_write_command_response(result)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 217, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 189, in _raise_last_write_error
+    raise DuplicateKeyError(error.get("errmsg"), 11000, error)
+pymongo.errors.DuplicateKeyError: E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429febe76e014e093546bf') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429febe76e014e093546bf') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429febe76e014e093546bf')}}
+INFO 2023-04-21 20:08:37,410 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:37,414 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:37,414 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:37,535 app inserting data into Mongodb
+INFO 2023-04-21 20:08:37,611 app data inserted in mongodb
+INFO 2023-04-21 20:08:38,515 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:38,521 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:38,521 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:38,635 app inserting data into Mongodb
+ERROR 2023-04-21 20:08:38,710 app E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fede76e014e093546c0') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fede76e014e093546c0') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429fede76e014e093546c0')}}
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 249, in channel
+    my_coll.insert_one(mongo_dict)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 628, in insert_one
+    self._insert_one(
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 569, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1476, in _retryable_write
+    return self._retry_with_session(retryable, func, s, None)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1349, in _retry_with_session
+    return self._retry_internal(retryable, func, session, bulk)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\_csot.py", line 105, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1390, in _retry_internal
+    return func(session, sock_info, retryable)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 567, in _insert_command
+    _check_write_command_response(result)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 217, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 189, in _raise_last_write_error
+    raise DuplicateKeyError(error.get("errmsg"), 11000, error)
+pymongo.errors.DuplicateKeyError: E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fede76e014e093546c0') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fede76e014e093546c0') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429fede76e014e093546c0')}}
+INFO 2023-04-21 20:08:39,348 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:39,354 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:39,354 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:39,468 app inserting data into Mongodb
+ERROR 2023-04-21 20:08:39,540 app E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fede76e014e093546c0') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fede76e014e093546c0') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429fede76e014e093546c0')}}
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 249, in channel
+    my_coll.insert_one(mongo_dict)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 628, in insert_one
+    self._insert_one(
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 569, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1476, in _retryable_write
+    return self._retry_with_session(retryable, func, s, None)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1349, in _retry_with_session
+    return self._retry_internal(retryable, func, session, bulk)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\_csot.py", line 105, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1390, in _retry_internal
+    return func(session, sock_info, retryable)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 567, in _insert_command
+    _check_write_command_response(result)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 217, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 189, in _raise_last_write_error
+    raise DuplicateKeyError(error.get("errmsg"), 11000, error)
+pymongo.errors.DuplicateKeyError: E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fede76e014e093546c0') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fede76e014e093546c0') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429fede76e014e093546c0')}}
+INFO 2023-04-21 20:08:40,184 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:40,191 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:40,192 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:40,330 app inserting data into Mongodb
+ERROR 2023-04-21 20:08:40,402 app E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fede76e014e093546c0') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fede76e014e093546c0') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429fede76e014e093546c0')}}
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 249, in channel
+    my_coll.insert_one(mongo_dict)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 628, in insert_one
+    self._insert_one(
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 569, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1476, in _retryable_write
+    return self._retry_with_session(retryable, func, s, None)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1349, in _retry_with_session
+    return self._retry_internal(retryable, func, session, bulk)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\_csot.py", line 105, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1390, in _retry_internal
+    return func(session, sock_info, retryable)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 567, in _insert_command
+    _check_write_command_response(result)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 217, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 189, in _raise_last_write_error
+    raise DuplicateKeyError(error.get("errmsg"), 11000, error)
+pymongo.errors.DuplicateKeyError: E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fede76e014e093546c0') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429fede76e014e093546c0') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429fede76e014e093546c0')}}
+INFO 2023-04-21 20:08:41,197 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:41,202 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:41,202 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:41,352 app inserting data into Mongodb
+INFO 2023-04-21 20:08:41,429 app data inserted in mongodb
+INFO 2023-04-21 20:08:42,345 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:42,351 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:42,351 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:42,575 app inserting data into Mongodb
+ERROR 2023-04-21 20:08:42,657 app E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff1e76e014e093546c1') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff1e76e014e093546c1') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429ff1e76e014e093546c1')}}
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 249, in channel
+    my_coll.insert_one(mongo_dict)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 628, in insert_one
+    self._insert_one(
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 569, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1476, in _retryable_write
+    return self._retry_with_session(retryable, func, s, None)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1349, in _retry_with_session
+    return self._retry_internal(retryable, func, session, bulk)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\_csot.py", line 105, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1390, in _retry_internal
+    return func(session, sock_info, retryable)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 567, in _insert_command
+    _check_write_command_response(result)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 217, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 189, in _raise_last_write_error
+    raise DuplicateKeyError(error.get("errmsg"), 11000, error)
+pymongo.errors.DuplicateKeyError: E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff1e76e014e093546c1') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff1e76e014e093546c1') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429ff1e76e014e093546c1')}}
+INFO 2023-04-21 20:08:43,284 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:43,290 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:43,291 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:43,469 app inserting data into Mongodb
+INFO 2023-04-21 20:08:43,541 app data inserted in mongodb
+INFO 2023-04-21 20:08:44,154 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:44,159 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:44,160 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:44,270 app inserting data into Mongodb
+ERROR 2023-04-21 20:08:44,333 app E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff3e76e014e093546c2') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff3e76e014e093546c2') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429ff3e76e014e093546c2')}}
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 249, in channel
+    my_coll.insert_one(mongo_dict)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 628, in insert_one
+    self._insert_one(
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 569, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1476, in _retryable_write
+    return self._retry_with_session(retryable, func, s, None)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1349, in _retry_with_session
+    return self._retry_internal(retryable, func, session, bulk)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\_csot.py", line 105, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1390, in _retry_internal
+    return func(session, sock_info, retryable)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 567, in _insert_command
+    _check_write_command_response(result)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 217, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 189, in _raise_last_write_error
+    raise DuplicateKeyError(error.get("errmsg"), 11000, error)
+pymongo.errors.DuplicateKeyError: E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff3e76e014e093546c2') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff3e76e014e093546c2') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429ff3e76e014e093546c2')}}
+INFO 2023-04-21 20:08:44,954 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:44,961 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:44,961 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:45,078 app inserting data into Mongodb
+ERROR 2023-04-21 20:08:45,161 app E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff3e76e014e093546c2') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff3e76e014e093546c2') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429ff3e76e014e093546c2')}}
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 249, in channel
+    my_coll.insert_one(mongo_dict)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 628, in insert_one
+    self._insert_one(
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 569, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1476, in _retryable_write
+    return self._retry_with_session(retryable, func, s, None)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1349, in _retry_with_session
+    return self._retry_internal(retryable, func, session, bulk)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\_csot.py", line 105, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1390, in _retry_internal
+    return func(session, sock_info, retryable)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 567, in _insert_command
+    _check_write_command_response(result)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 217, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 189, in _raise_last_write_error
+    raise DuplicateKeyError(error.get("errmsg"), 11000, error)
+pymongo.errors.DuplicateKeyError: E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff3e76e014e093546c2') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff3e76e014e093546c2') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429ff3e76e014e093546c2')}}
+INFO 2023-04-21 20:08:45,767 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:45,773 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:45,773 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:45,890 app inserting data into Mongodb
+ERROR 2023-04-21 20:08:45,983 app E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff3e76e014e093546c2') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff3e76e014e093546c2') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429ff3e76e014e093546c2')}}
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 249, in channel
+    my_coll.insert_one(mongo_dict)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 628, in insert_one
+    self._insert_one(
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 569, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1476, in _retryable_write
+    return self._retry_with_session(retryable, func, s, None)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1349, in _retry_with_session
+    return self._retry_internal(retryable, func, session, bulk)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\_csot.py", line 105, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1390, in _retry_internal
+    return func(session, sock_info, retryable)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 567, in _insert_command
+    _check_write_command_response(result)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 217, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 189, in _raise_last_write_error
+    raise DuplicateKeyError(error.get("errmsg"), 11000, error)
+pymongo.errors.DuplicateKeyError: E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff3e76e014e093546c2') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff3e76e014e093546c2') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429ff3e76e014e093546c2')}}
+INFO 2023-04-21 20:08:46,658 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:46,664 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:46,664 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:46,781 app inserting data into Mongodb
+ERROR 2023-04-21 20:08:46,865 app E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff3e76e014e093546c2') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff3e76e014e093546c2') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429ff3e76e014e093546c2')}}
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 249, in channel
+    my_coll.insert_one(mongo_dict)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 628, in insert_one
+    self._insert_one(
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 569, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1476, in _retryable_write
+    return self._retry_with_session(retryable, func, s, None)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1349, in _retry_with_session
+    return self._retry_internal(retryable, func, session, bulk)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\_csot.py", line 105, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1390, in _retry_internal
+    return func(session, sock_info, retryable)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 567, in _insert_command
+    _check_write_command_response(result)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 217, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 189, in _raise_last_write_error
+    raise DuplicateKeyError(error.get("errmsg"), 11000, error)
+pymongo.errors.DuplicateKeyError: E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff3e76e014e093546c2') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff3e76e014e093546c2') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429ff3e76e014e093546c2')}}
+INFO 2023-04-21 20:08:47,471 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:47,479 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:47,479 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:47,592 app inserting data into Mongodb
+ERROR 2023-04-21 20:08:47,676 app E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff3e76e014e093546c2') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff3e76e014e093546c2') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429ff3e76e014e093546c2')}}
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 249, in channel
+    my_coll.insert_one(mongo_dict)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 628, in insert_one
+    self._insert_one(
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 569, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1476, in _retryable_write
+    return self._retry_with_session(retryable, func, s, None)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1349, in _retry_with_session
+    return self._retry_internal(retryable, func, session, bulk)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\_csot.py", line 105, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1390, in _retry_internal
+    return func(session, sock_info, retryable)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 567, in _insert_command
+    _check_write_command_response(result)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 217, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 189, in _raise_last_write_error
+    raise DuplicateKeyError(error.get("errmsg"), 11000, error)
+pymongo.errors.DuplicateKeyError: E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff3e76e014e093546c2') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ff3e76e014e093546c2') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429ff3e76e014e093546c2')}}
+INFO 2023-04-21 20:08:48,295 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:48,301 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:48,301 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:48,507 app inserting data into Mongodb
+INFO 2023-04-21 20:08:48,575 app data inserted in mongodb
+INFO 2023-04-21 20:08:49,323 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:49,328 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:49,329 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:49,671 app inserting data into Mongodb
+INFO 2023-04-21 20:08:49,755 app data inserted in mongodb
+INFO 2023-04-21 20:08:50,622 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:50,629 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:50,629 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:50,807 app inserting data into Mongodb
+INFO 2023-04-21 20:08:50,907 app data inserted in mongodb
+INFO 2023-04-21 20:08:51,534 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:51,540 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:51,541 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:51,669 app inserting data into Mongodb
+INFO 2023-04-21 20:08:51,750 app data inserted in mongodb
+INFO 2023-04-21 20:08:52,473 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:52,477 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:52,477 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:52,613 app inserting data into Mongodb
+INFO 2023-04-21 20:08:52,701 app data inserted in mongodb
+INFO 2023-04-21 20:08:53,381 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:53,388 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:53,389 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:53,598 app inserting data into Mongodb
+INFO 2023-04-21 20:08:53,677 app data inserted in mongodb
+INFO 2023-04-21 20:08:54,387 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:54,393 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:54,393 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:54,523 app inserting data into Mongodb
+INFO 2023-04-21 20:08:54,613 app data inserted in mongodb
+INFO 2023-04-21 20:08:55,216 app inserting video details in mysql_table
+INFO 2023-04-21 20:08:55,221 app videos data inserted into mysql table
+INFO 2023-04-21 20:08:55,221 app fetching comments commentors on videos
+INFO 2023-04-21 20:08:55,352 app inserting data into Mongodb
+ERROR 2023-04-21 20:08:55,427 app E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ffee76e014e093546c9') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ffee76e014e093546c9') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429ffee76e014e093546c9')}}
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 249, in channel
+    my_coll.insert_one(mongo_dict)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 628, in insert_one
+    self._insert_one(
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 569, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1476, in _retryable_write
+    return self._retry_with_session(retryable, func, s, None)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1349, in _retry_with_session
+    return self._retry_internal(retryable, func, session, bulk)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\_csot.py", line 105, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\mongo_client.py", line 1390, in _retry_internal
+    return func(session, sock_info, retryable)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\collection.py", line 567, in _insert_command
+    _check_write_command_response(result)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 217, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\pymongo\helpers.py", line 189, in _raise_last_write_error
+    raise DuplicateKeyError(error.get("errmsg"), 11000, error)
+pymongo.errors.DuplicateKeyError: E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ffee76e014e093546c9') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: youtube_scraped_data.names_and_comments index: _id_ dup key: { _id: ObjectId('64429ffee76e014e093546c9') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('64429ffee76e014e093546c9')}}
+INFO 2023-04-21 20:08:55,428 app fetching channel_data from mysql_table
+INFO 2023-04-21 20:08:55,432 app channel_sql_data fetched
+INFO 2023-04-21 20:08:55,440 werkzeug 127.0.0.1 - - [21/Apr/2023 20:08:55] "POST /channel HTTP/1.1" 200 -
+INFO 2023-04-21 20:09:11,639 app fetching videos data from mysql_table
+INFO 2023-04-21 20:09:11,649 werkzeug 127.0.0.1 - - [21/Apr/2023 20:09:11] "GET /video HTTP/1.1" 200 -
+INFO 2023-04-21 20:59:32,542 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-21 20:59:32,652 app True
+INFO 2023-04-21 20:59:32,667 app database created
+INFO 2023-04-21 20:59:32,667 app channel table created
+INFO 2023-04-21 20:59:32,667 app videos table created
+INFO 2023-04-21 20:59:32,667 app Connecting to mongodb
+INFO 2023-04-21 20:59:34,948 werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2023-04-21 20:59:34,948 werkzeug [33mPress CTRL+C to quit[0m
+INFO 2023-04-21 20:59:34,964 werkzeug  * Restarting with stat
+INFO 2023-04-21 20:59:36,136 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-21 20:59:36,183 app True
+INFO 2023-04-21 20:59:36,183 app database created
+INFO 2023-04-21 20:59:36,183 app channel table created
+INFO 2023-04-21 20:59:36,183 app videos table created
+INFO 2023-04-21 20:59:36,183 app Connecting to mongodb
+WARNING 2023-04-21 20:59:37,480 werkzeug  * Debugger is active!
+INFO 2023-04-21 20:59:37,511 werkzeug  * Debugger PIN: 481-872-290
+INFO 2023-04-21 20:59:57,482 werkzeug 127.0.0.1 - - [21/Apr/2023 20:59:57] "GET / HTTP/1.1" 200 -
+INFO 2023-04-21 21:00:03,394 app ['UC59K-uG2A5ogwIrHw4bmlEg']
+INFO 2023-04-21 21:00:04,790 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:04,802 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:04,802 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:04,922 app inserting data into Mongodb
+INFO 2023-04-21 21:00:05,010 app data inserted in mongodb
+INFO 2023-04-21 21:00:05,589 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:05,595 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:05,596 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:05,749 app inserting data into Mongodb
+INFO 2023-04-21 21:00:05,821 app data inserted in mongodb
+INFO 2023-04-21 21:00:06,466 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:06,472 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:06,472 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:06,581 app inserting data into Mongodb
+INFO 2023-04-21 21:00:06,653 app data inserted in mongodb
+INFO 2023-04-21 21:00:07,247 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:07,253 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:07,254 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:07,418 app inserting data into Mongodb
+INFO 2023-04-21 21:00:07,490 app data inserted in mongodb
+INFO 2023-04-21 21:00:08,071 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:08,074 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:08,074 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:08,198 app inserting data into Mongodb
+INFO 2023-04-21 21:00:08,273 app data inserted in mongodb
+INFO 2023-04-21 21:00:08,905 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:08,913 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:08,914 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:09,085 app inserting data into Mongodb
+INFO 2023-04-21 21:00:09,156 app data inserted in mongodb
+INFO 2023-04-21 21:00:09,721 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:09,726 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:09,726 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:09,927 app inserting data into Mongodb
+INFO 2023-04-21 21:00:10,004 app data inserted in mongodb
+INFO 2023-04-21 21:00:10,566 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:10,569 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:10,570 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:10,668 app inserting data into Mongodb
+INFO 2023-04-21 21:00:10,740 app data inserted in mongodb
+INFO 2023-04-21 21:00:11,318 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:11,321 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:11,321 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:11,483 app inserting data into Mongodb
+INFO 2023-04-21 21:00:11,555 app data inserted in mongodb
+INFO 2023-04-21 21:00:12,139 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:12,144 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:12,144 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:12,335 app inserting data into Mongodb
+INFO 2023-04-21 21:00:12,407 app data inserted in mongodb
+INFO 2023-04-21 21:00:12,995 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:13,000 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:13,000 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:13,161 app inserting data into Mongodb
+INFO 2023-04-21 21:00:13,231 app data inserted in mongodb
+INFO 2023-04-21 21:00:13,826 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:13,832 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:13,832 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:13,952 app inserting data into Mongodb
+INFO 2023-04-21 21:00:14,023 app data inserted in mongodb
+INFO 2023-04-21 21:00:14,595 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:14,601 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:14,601 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:14,724 app inserting data into Mongodb
+INFO 2023-04-21 21:00:14,795 app data inserted in mongodb
+INFO 2023-04-21 21:00:15,351 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:15,357 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:15,357 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:15,469 app inserting data into Mongodb
+INFO 2023-04-21 21:00:15,545 app data inserted in mongodb
+INFO 2023-04-21 21:00:16,134 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:16,140 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:16,140 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:16,326 app inserting data into Mongodb
+INFO 2023-04-21 21:00:16,398 app data inserted in mongodb
+INFO 2023-04-21 21:00:16,993 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:16,998 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:16,999 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:17,143 app inserting data into Mongodb
+INFO 2023-04-21 21:00:17,221 app data inserted in mongodb
+INFO 2023-04-21 21:00:17,819 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:17,825 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:17,826 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:17,950 app inserting data into Mongodb
+INFO 2023-04-21 21:00:18,024 app data inserted in mongodb
+INFO 2023-04-21 21:00:18,636 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:18,641 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:18,641 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:18,766 app inserting data into Mongodb
+INFO 2023-04-21 21:00:18,839 app data inserted in mongodb
+INFO 2023-04-21 21:00:19,582 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:19,586 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:19,586 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:19,779 app inserting data into Mongodb
+INFO 2023-04-21 21:00:19,854 app data inserted in mongodb
+INFO 2023-04-21 21:00:20,483 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:20,489 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:20,489 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:20,615 app inserting data into Mongodb
+INFO 2023-04-21 21:00:20,689 app data inserted in mongodb
+INFO 2023-04-21 21:00:21,388 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:21,393 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:21,393 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:21,522 app inserting data into Mongodb
+INFO 2023-04-21 21:00:21,593 app data inserted in mongodb
+INFO 2023-04-21 21:00:22,180 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:22,184 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:22,184 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:22,327 app inserting data into Mongodb
+INFO 2023-04-21 21:00:22,424 app data inserted in mongodb
+INFO 2023-04-21 21:00:23,000 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:23,004 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:23,004 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:23,131 app inserting data into Mongodb
+INFO 2023-04-21 21:00:23,203 app data inserted in mongodb
+INFO 2023-04-21 21:00:23,795 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:23,799 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:23,799 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:24,000 app inserting data into Mongodb
+INFO 2023-04-21 21:00:24,076 app data inserted in mongodb
+INFO 2023-04-21 21:00:24,681 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:24,688 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:24,688 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:24,788 app inserting data into Mongodb
+INFO 2023-04-21 21:00:24,861 app data inserted in mongodb
+INFO 2023-04-21 21:00:25,405 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:25,411 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:25,411 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:25,506 app inserting data into Mongodb
+INFO 2023-04-21 21:00:25,579 app data inserted in mongodb
+INFO 2023-04-21 21:00:26,185 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:26,190 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:26,191 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:26,286 app inserting data into Mongodb
+INFO 2023-04-21 21:00:26,360 app data inserted in mongodb
+INFO 2023-04-21 21:00:26,912 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:26,917 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:26,918 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:27,016 app inserting data into Mongodb
+INFO 2023-04-21 21:00:27,089 app data inserted in mongodb
+INFO 2023-04-21 21:00:27,632 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:27,637 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:27,637 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:27,774 app inserting data into Mongodb
+INFO 2023-04-21 21:00:27,847 app data inserted in mongodb
+INFO 2023-04-21 21:00:28,391 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:28,397 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:28,397 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:28,493 app inserting data into Mongodb
+INFO 2023-04-21 21:00:28,565 app data inserted in mongodb
+INFO 2023-04-21 21:00:29,141 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:29,144 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:29,144 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:29,251 app inserting data into Mongodb
+INFO 2023-04-21 21:00:29,321 app data inserted in mongodb
+INFO 2023-04-21 21:00:29,914 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:29,917 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:29,917 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:30,013 app inserting data into Mongodb
+INFO 2023-04-21 21:00:30,086 app data inserted in mongodb
+INFO 2023-04-21 21:00:30,831 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:30,837 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:30,837 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:30,940 app inserting data into Mongodb
+INFO 2023-04-21 21:00:31,025 app data inserted in mongodb
+INFO 2023-04-21 21:00:31,718 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:31,723 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:31,723 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:31,825 app inserting data into Mongodb
+INFO 2023-04-21 21:00:31,899 app data inserted in mongodb
+INFO 2023-04-21 21:00:32,685 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:32,689 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:32,690 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:32,832 app inserting data into Mongodb
+INFO 2023-04-21 21:00:32,921 app data inserted in mongodb
+INFO 2023-04-21 21:00:33,562 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:33,565 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:33,565 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:33,672 app inserting data into Mongodb
+INFO 2023-04-21 21:00:33,747 app data inserted in mongodb
+INFO 2023-04-21 21:00:34,471 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:34,476 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:34,476 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:34,624 app inserting data into Mongodb
+INFO 2023-04-21 21:00:34,696 app data inserted in mongodb
+INFO 2023-04-21 21:00:35,323 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:35,328 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:35,328 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:35,431 app inserting data into Mongodb
+INFO 2023-04-21 21:00:35,503 app data inserted in mongodb
+INFO 2023-04-21 21:00:36,096 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:36,101 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:36,101 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:36,207 app inserting data into Mongodb
+INFO 2023-04-21 21:00:36,279 app data inserted in mongodb
+INFO 2023-04-21 21:00:36,866 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:36,870 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:36,870 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:36,975 app inserting data into Mongodb
+INFO 2023-04-21 21:00:37,050 app data inserted in mongodb
+INFO 2023-04-21 21:00:37,605 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:37,610 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:37,610 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:37,716 app inserting data into Mongodb
+INFO 2023-04-21 21:00:37,788 app data inserted in mongodb
+INFO 2023-04-21 21:00:38,362 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:38,368 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:38,368 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:38,468 app inserting data into Mongodb
+INFO 2023-04-21 21:00:38,544 app data inserted in mongodb
+INFO 2023-04-21 21:00:39,240 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:39,243 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:39,243 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:39,370 app inserting data into Mongodb
+INFO 2023-04-21 21:00:39,443 app data inserted in mongodb
+INFO 2023-04-21 21:00:40,030 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:40,036 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:40,036 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:40,228 app inserting data into Mongodb
+INFO 2023-04-21 21:00:40,304 app data inserted in mongodb
+INFO 2023-04-21 21:00:40,865 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:40,867 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:40,867 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:40,986 app inserting data into Mongodb
+INFO 2023-04-21 21:00:41,059 app data inserted in mongodb
+INFO 2023-04-21 21:00:41,648 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:41,654 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:41,655 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:41,756 app inserting data into Mongodb
+INFO 2023-04-21 21:00:41,826 app data inserted in mongodb
+INFO 2023-04-21 21:00:42,397 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:42,402 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:42,402 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:42,508 app inserting data into Mongodb
+INFO 2023-04-21 21:00:42,580 app data inserted in mongodb
+INFO 2023-04-21 21:00:43,153 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:43,158 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:43,158 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:43,302 app inserting data into Mongodb
+INFO 2023-04-21 21:00:43,377 app data inserted in mongodb
+INFO 2023-04-21 21:00:43,966 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:43,974 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:43,975 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:44,131 app inserting data into Mongodb
+INFO 2023-04-21 21:00:44,208 app data inserted in mongodb
+INFO 2023-04-21 21:00:44,775 app inserting video details in mysql_table
+INFO 2023-04-21 21:00:44,781 app videos data inserted into mysql table
+INFO 2023-04-21 21:00:44,781 app fetching comments commentors on videos
+INFO 2023-04-21 21:00:44,884 app inserting data into Mongodb
+INFO 2023-04-21 21:00:44,966 app data inserted in mongodb
+INFO 2023-04-21 21:00:44,966 app fetching channel_data from mysql_table
+INFO 2023-04-21 21:00:44,968 app channel_sql_data fetched
+INFO 2023-04-21 21:00:44,992 werkzeug 127.0.0.1 - - [21/Apr/2023 21:00:44] "POST /channel HTTP/1.1" 200 -
+INFO 2023-04-21 21:00:49,194 app fetching videos data from mysql_table
+INFO 2023-04-21 21:00:49,212 werkzeug 127.0.0.1 - - [21/Apr/2023 21:00:49] "GET /video HTTP/1.1" 200 -
+INFO 2023-04-21 21:00:58,019 app fetching names and comments from Mongodb using GET method
+INFO 2023-04-21 21:00:58,666 werkzeug 127.0.0.1 - - [21/Apr/2023 21:00:58] "GET /comments HTTP/1.1" 200 -
+INFO 2023-04-21 21:01:26,009 app fetching names and comments from Mongodb using GET method
+INFO 2023-04-21 21:01:26,253 werkzeug 127.0.0.1 - - [21/Apr/2023 21:01:26] "GET /comments HTTP/1.1" 200 -
+INFO 2023-04-21 23:01:54,580 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-21 23:01:54,892 app True
+INFO 2023-04-21 23:01:54,948 app database created
+INFO 2023-04-21 23:01:54,948 app channel table created
+INFO 2023-04-21 23:01:54,948 app videos table created
+INFO 2023-04-21 23:01:54,948 app Connecting to mongodb
+INFO 2023-04-21 23:01:57,602 werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2023-04-21 23:01:57,602 werkzeug [33mPress CTRL+C to quit[0m
+INFO 2023-04-21 23:01:57,610 werkzeug  * Restarting with stat
+INFO 2023-04-21 23:01:59,026 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-21 23:01:59,074 app True
+INFO 2023-04-21 23:01:59,090 app database created
+INFO 2023-04-21 23:01:59,090 app channel table created
+INFO 2023-04-21 23:01:59,090 app videos table created
+INFO 2023-04-21 23:01:59,090 app Connecting to mongodb
+WARNING 2023-04-21 23:02:00,046 werkzeug  * Debugger is active!
+INFO 2023-04-21 23:02:00,070 werkzeug  * Debugger PIN: 481-872-290
+INFO 2023-04-21 23:02:44,454 werkzeug 127.0.0.1 - - [21/Apr/2023 23:02:44] "GET / HTTP/1.1" 200 -
+INFO 2023-04-21 23:02:49,436 werkzeug 127.0.0.1 - - [21/Apr/2023 23:02:49] "GET / HTTP/1.1" 200 -
+INFO 2023-04-21 23:02:54,599 werkzeug 127.0.0.1 - - [21/Apr/2023 23:02:54] "GET / HTTP/1.1" 200 -
+INFO 2023-04-21 23:03:01,980 app ['UCNU_lfiiWBdtULKOw6X0Dig']
+INFO 2023-04-21 23:03:04,277 app fetching video_url
+INFO 2023-04-21 23:03:05,991 app ['UCNU_lfiiWBdtULKOw6X0Dig', 'UCNU_lfiiWBdtULKOw6X0Dig']
+INFO 2023-04-21 23:03:06,047 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:06,063 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:06,063 app fetching comments commentors on videos
+ERROR 2023-04-21 23:03:06,087 app [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:2635)
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 98, in channel_data
+    response = request.execute()
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\googleapiclient\_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\googleapiclient\http.py", line 923, in execute
+    resp, content = _retry_request(
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\googleapiclient\http.py", line 222, in _retry_request
+    raise exception
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\googleapiclient\http.py", line 191, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\httplib2\__init__.py", line 1724, in request
+    (response, content) = self._request(
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\httplib2\__init__.py", line 1444, in _request
+    (response, content) = self._conn_request(conn, request_uri, method, body, headers)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\httplib2\__init__.py", line 1396, in _conn_request
+    response = conn.getresponse()
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 1344, in getresponse
+    response.begin()
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python38\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ssl.SSLError: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:2635)
+ERROR 2023-04-21 23:03:06,087 app [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:2635)
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\app.py", line 225, in comment_thread
+    response = request.execute()
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\googleapiclient\_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\googleapiclient\http.py", line 923, in execute
+    resp, content = _retry_request(
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\googleapiclient\http.py", line 222, in _retry_request
+    raise exception
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\googleapiclient\http.py", line 191, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\httplib2\__init__.py", line 1724, in request
+    (response, content) = self._request(
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\httplib2\__init__.py", line 1444, in _request
+    (response, content) = self._conn_request(conn, request_uri, method, body, headers)
+  File "C:\Users\Lenovo\PycharmProjects\pythonProject5\venv\lib\site-packages\httplib2\__init__.py", line 1396, in _conn_request
+    response = conn.getresponse()
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 1344, in getresponse
+    response.begin()
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python38\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ssl.SSLError: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:2635)
+INFO 2023-04-21 23:03:06,151 werkzeug 127.0.0.1 - - [21/Apr/2023 23:03:06] "[35m[1mPOST /channel HTTP/1.1[0m" 500 -
+INFO 2023-04-21 23:03:06,879 app fetching video_url
+INFO 2023-04-21 23:03:07,391 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:07,399 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:07,399 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:07,575 app inserting data into Mongodb
+INFO 2023-04-21 23:03:07,767 app data inserted in mongodb
+INFO 2023-04-21 23:03:07,871 app fetching video_url
+INFO 2023-04-21 23:03:08,408 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:08,408 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:08,408 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:08,616 app inserting data into Mongodb
+INFO 2023-04-21 23:03:08,744 app data inserted in mongodb
+INFO 2023-04-21 23:03:08,832 app fetching video_url
+INFO 2023-04-21 23:03:09,296 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:09,304 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:09,304 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:09,536 app inserting data into Mongodb
+INFO 2023-04-21 23:03:09,608 app data inserted in mongodb
+INFO 2023-04-21 23:03:09,704 app fetching video_url
+INFO 2023-04-21 23:03:10,232 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:10,240 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:10,240 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:10,368 app inserting data into Mongodb
+INFO 2023-04-21 23:03:10,440 app data inserted in mongodb
+INFO 2023-04-21 23:03:10,528 app fetching video_url
+INFO 2023-04-21 23:03:11,064 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:11,064 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:11,064 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:11,200 app inserting data into Mongodb
+INFO 2023-04-21 23:03:11,264 app data inserted in mongodb
+INFO 2023-04-21 23:03:11,368 app fetching video_url
+INFO 2023-04-21 23:03:11,840 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:11,840 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:11,840 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:11,984 app inserting data into Mongodb
+INFO 2023-04-21 23:03:12,048 app data inserted in mongodb
+INFO 2023-04-21 23:03:12,152 app fetching video_url
+INFO 2023-04-21 23:03:12,672 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:12,680 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:12,680 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:12,880 app inserting data into Mongodb
+INFO 2023-04-21 23:03:12,944 app data inserted in mongodb
+INFO 2023-04-21 23:03:13,048 app fetching video_url
+INFO 2023-04-21 23:03:13,624 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:13,632 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:13,632 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:13,832 app inserting data into Mongodb
+INFO 2023-04-21 23:03:13,904 app data inserted in mongodb
+INFO 2023-04-21 23:03:14,000 app fetching video_url
+INFO 2023-04-21 23:03:14,512 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:14,512 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:14,520 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:14,728 app inserting data into Mongodb
+INFO 2023-04-21 23:03:14,800 app data inserted in mongodb
+INFO 2023-04-21 23:03:14,896 app fetching video_url
+INFO 2023-04-21 23:03:15,415 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:15,423 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:15,423 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:15,543 app inserting data into Mongodb
+INFO 2023-04-21 23:03:15,607 app data inserted in mongodb
+INFO 2023-04-21 23:03:15,703 app fetching video_url
+INFO 2023-04-21 23:03:16,239 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:16,239 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:16,247 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:16,447 app inserting data into Mongodb
+INFO 2023-04-21 23:03:16,511 app data inserted in mongodb
+INFO 2023-04-21 23:03:16,607 app fetching video_url
+INFO 2023-04-21 23:03:17,151 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:17,159 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:17,159 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:17,351 app inserting data into Mongodb
+INFO 2023-04-21 23:03:17,423 app data inserted in mongodb
+INFO 2023-04-21 23:03:17,520 app fetching video_url
+INFO 2023-04-21 23:03:18,080 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:18,088 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:18,088 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:18,360 app inserting data into Mongodb
+INFO 2023-04-21 23:03:18,433 app data inserted in mongodb
+INFO 2023-04-21 23:03:18,521 app fetching video_url
+INFO 2023-04-21 23:03:19,019 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:19,027 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:19,027 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:19,252 app inserting data into Mongodb
+INFO 2023-04-21 23:03:19,324 app data inserted in mongodb
+INFO 2023-04-21 23:03:19,420 app fetching video_url
+INFO 2023-04-21 23:03:19,916 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:19,916 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:19,924 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:20,092 app inserting data into Mongodb
+INFO 2023-04-21 23:03:20,172 app data inserted in mongodb
+INFO 2023-04-21 23:03:20,268 app fetching video_url
+INFO 2023-04-21 23:03:20,804 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:20,812 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:20,812 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:21,012 app inserting data into Mongodb
+INFO 2023-04-21 23:03:21,076 app data inserted in mongodb
+INFO 2023-04-21 23:03:21,172 app fetching video_url
+INFO 2023-04-21 23:03:21,708 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:21,716 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:21,716 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:21,924 app inserting data into Mongodb
+INFO 2023-04-21 23:03:21,996 app data inserted in mongodb
+INFO 2023-04-21 23:03:22,100 app fetching video_url
+INFO 2023-04-21 23:03:22,612 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:22,612 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:22,612 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:22,820 app inserting data into Mongodb
+INFO 2023-04-21 23:03:22,884 app data inserted in mongodb
+INFO 2023-04-21 23:03:22,980 app fetching video_url
+INFO 2023-04-21 23:03:23,508 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:23,508 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:23,508 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:23,660 app inserting data into Mongodb
+INFO 2023-04-21 23:03:23,724 app data inserted in mongodb
+INFO 2023-04-21 23:03:23,820 app fetching video_url
+INFO 2023-04-21 23:03:24,348 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:24,356 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:24,356 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:24,628 app inserting data into Mongodb
+INFO 2023-04-21 23:03:24,772 app data inserted in mongodb
+INFO 2023-04-21 23:03:24,860 app fetching video_url
+INFO 2023-04-21 23:03:25,388 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:25,388 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:25,388 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:25,636 app inserting data into Mongodb
+INFO 2023-04-21 23:03:25,708 app data inserted in mongodb
+INFO 2023-04-21 23:03:25,804 app fetching video_url
+INFO 2023-04-21 23:03:26,316 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:26,324 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:26,324 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:26,492 app inserting data into Mongodb
+INFO 2023-04-21 23:03:26,564 app data inserted in mongodb
+INFO 2023-04-21 23:03:26,652 app fetching video_url
+INFO 2023-04-21 23:03:28,390 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:28,398 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:28,398 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:28,606 app inserting data into Mongodb
+INFO 2023-04-21 23:03:28,678 app data inserted in mongodb
+INFO 2023-04-21 23:03:28,766 app fetching video_url
+INFO 2023-04-21 23:03:29,270 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:29,270 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:29,270 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:29,462 app inserting data into Mongodb
+INFO 2023-04-21 23:03:29,534 app data inserted in mongodb
+INFO 2023-04-21 23:03:29,622 app fetching video_url
+INFO 2023-04-21 23:03:30,150 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:30,158 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:30,158 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:30,294 app inserting data into Mongodb
+INFO 2023-04-21 23:03:30,366 app data inserted in mongodb
+INFO 2023-04-21 23:03:30,462 app fetching video_url
+INFO 2023-04-21 23:03:30,974 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:30,982 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:30,982 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:31,110 app inserting data into Mongodb
+INFO 2023-04-21 23:03:31,174 app data inserted in mongodb
+INFO 2023-04-21 23:03:31,262 app fetching video_url
+INFO 2023-04-21 23:03:31,758 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:31,766 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:31,766 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:31,942 app inserting data into Mongodb
+INFO 2023-04-21 23:03:32,014 app data inserted in mongodb
+INFO 2023-04-21 23:03:32,110 app fetching video_url
+INFO 2023-04-21 23:03:32,630 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:32,638 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:32,638 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:32,774 app inserting data into Mongodb
+INFO 2023-04-21 23:03:32,894 app data inserted in mongodb
+INFO 2023-04-21 23:03:32,982 app fetching video_url
+INFO 2023-04-21 23:03:33,526 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:33,526 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:33,526 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:33,710 app inserting data into Mongodb
+INFO 2023-04-21 23:03:33,782 app data inserted in mongodb
+INFO 2023-04-21 23:03:33,870 app fetching video_url
+INFO 2023-04-21 23:03:34,397 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:34,405 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:34,405 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:34,541 app inserting data into Mongodb
+INFO 2023-04-21 23:03:34,613 app data inserted in mongodb
+INFO 2023-04-21 23:03:34,709 app fetching video_url
+INFO 2023-04-21 23:03:36,385 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:36,393 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:36,393 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:36,561 app inserting data into Mongodb
+INFO 2023-04-21 23:03:36,641 app data inserted in mongodb
+INFO 2023-04-21 23:03:36,737 app fetching video_url
+INFO 2023-04-21 23:03:37,264 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:37,272 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:37,272 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:37,424 app inserting data into Mongodb
+INFO 2023-04-21 23:03:37,488 app data inserted in mongodb
+INFO 2023-04-21 23:03:37,576 app fetching video_url
+INFO 2023-04-21 23:03:38,088 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:38,096 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:38,096 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:38,232 app inserting data into Mongodb
+INFO 2023-04-21 23:03:38,304 app data inserted in mongodb
+INFO 2023-04-21 23:03:38,392 app fetching video_url
+INFO 2023-04-21 23:03:38,912 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:38,920 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:38,920 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:39,056 app inserting data into Mongodb
+INFO 2023-04-21 23:03:39,120 app data inserted in mongodb
+INFO 2023-04-21 23:03:39,232 app fetching video_url
+INFO 2023-04-21 23:03:39,728 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:39,736 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:39,736 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:39,872 app inserting data into Mongodb
+INFO 2023-04-21 23:03:39,936 app data inserted in mongodb
+INFO 2023-04-21 23:03:40,032 app fetching video_url
+INFO 2023-04-21 23:03:40,552 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:40,560 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:40,560 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:40,736 app inserting data into Mongodb
+INFO 2023-04-21 23:03:40,800 app data inserted in mongodb
+INFO 2023-04-21 23:03:40,888 app fetching video_url
+INFO 2023-04-21 23:03:41,408 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:41,408 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:41,416 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:41,664 app inserting data into Mongodb
+INFO 2023-04-21 23:03:41,728 app data inserted in mongodb
+INFO 2023-04-21 23:03:41,816 app fetching video_url
+INFO 2023-04-21 23:03:42,312 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:42,320 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:42,320 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:42,440 app inserting data into Mongodb
+INFO 2023-04-21 23:03:42,504 app data inserted in mongodb
+INFO 2023-04-21 23:03:42,600 app fetching video_url
+INFO 2023-04-21 23:03:43,096 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:43,104 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:43,104 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:43,232 app inserting data into Mongodb
+INFO 2023-04-21 23:03:43,304 app data inserted in mongodb
+INFO 2023-04-21 23:03:43,400 app fetching video_url
+INFO 2023-04-21 23:03:43,912 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:43,912 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:43,912 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:44,119 app inserting data into Mongodb
+INFO 2023-04-21 23:03:44,183 app data inserted in mongodb
+INFO 2023-04-21 23:03:44,287 app fetching video_url
+INFO 2023-04-21 23:03:44,807 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:44,815 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:44,815 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:44,975 app inserting data into Mongodb
+INFO 2023-04-21 23:03:45,047 app data inserted in mongodb
+INFO 2023-04-21 23:03:45,135 app fetching video_url
+INFO 2023-04-21 23:03:45,647 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:45,655 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:45,655 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:45,799 app inserting data into Mongodb
+INFO 2023-04-21 23:03:45,863 app data inserted in mongodb
+INFO 2023-04-21 23:03:45,951 app fetching video_url
+INFO 2023-04-21 23:03:46,479 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:46,487 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:46,487 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:46,623 app inserting data into Mongodb
+INFO 2023-04-21 23:03:46,687 app data inserted in mongodb
+INFO 2023-04-21 23:03:46,775 app fetching video_url
+INFO 2023-04-21 23:03:47,279 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:47,295 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:47,295 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:47,455 app inserting data into Mongodb
+INFO 2023-04-21 23:03:47,527 app data inserted in mongodb
+INFO 2023-04-21 23:03:47,615 app fetching video_url
+INFO 2023-04-21 23:03:48,127 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:48,135 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:48,135 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:48,271 app inserting data into Mongodb
+INFO 2023-04-21 23:03:48,335 app data inserted in mongodb
+INFO 2023-04-21 23:03:48,439 app fetching video_url
+INFO 2023-04-21 23:03:48,951 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:48,959 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:48,959 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:49,087 app inserting data into Mongodb
+INFO 2023-04-21 23:03:49,151 app data inserted in mongodb
+INFO 2023-04-21 23:03:49,247 app fetching video_url
+INFO 2023-04-21 23:03:49,775 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:49,783 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:49,783 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:50,007 app inserting data into Mongodb
+INFO 2023-04-21 23:03:50,135 app data inserted in mongodb
+INFO 2023-04-21 23:03:50,223 app fetching video_url
+INFO 2023-04-21 23:03:50,736 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:50,744 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:50,744 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:50,904 app inserting data into Mongodb
+INFO 2023-04-21 23:03:50,968 app data inserted in mongodb
+INFO 2023-04-21 23:03:51,064 app fetching video_url
+INFO 2023-04-21 23:03:51,584 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:51,592 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:51,592 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:51,728 app inserting data into Mongodb
+INFO 2023-04-21 23:03:51,792 app data inserted in mongodb
+INFO 2023-04-21 23:03:51,880 app fetching video_url
+INFO 2023-04-21 23:03:52,399 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:52,407 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:52,407 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:52,543 app inserting data into Mongodb
+INFO 2023-04-21 23:03:52,615 app data inserted in mongodb
+INFO 2023-04-21 23:03:52,703 app fetching video_url
+INFO 2023-04-21 23:03:53,239 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:53,247 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:53,247 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:53,383 app inserting data into Mongodb
+INFO 2023-04-21 23:03:53,447 app data inserted in mongodb
+INFO 2023-04-21 23:03:53,543 app fetching video_url
+INFO 2023-04-21 23:03:54,063 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:54,071 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:54,071 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:54,247 app inserting data into Mongodb
+INFO 2023-04-21 23:03:54,311 app data inserted in mongodb
+INFO 2023-04-21 23:03:54,399 app fetching video_url
+INFO 2023-04-21 23:03:54,919 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:54,927 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:54,927 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:55,119 app inserting data into Mongodb
+INFO 2023-04-21 23:03:55,183 app data inserted in mongodb
+INFO 2023-04-21 23:03:55,279 app fetching video_url
+INFO 2023-04-21 23:03:55,799 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:55,807 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:55,807 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:55,927 app inserting data into Mongodb
+INFO 2023-04-21 23:03:55,991 app data inserted in mongodb
+INFO 2023-04-21 23:03:56,087 app fetching video_url
+INFO 2023-04-21 23:03:56,599 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:56,599 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:56,599 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:56,719 app inserting data into Mongodb
+INFO 2023-04-21 23:03:56,783 app data inserted in mongodb
+INFO 2023-04-21 23:03:56,871 app fetching video_url
+INFO 2023-04-21 23:03:57,687 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:57,687 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:57,687 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:57,855 app inserting data into Mongodb
+INFO 2023-04-21 23:03:57,919 app data inserted in mongodb
+INFO 2023-04-21 23:03:58,023 app fetching video_url
+INFO 2023-04-21 23:03:58,543 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:58,551 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:58,551 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:58,703 app inserting data into Mongodb
+INFO 2023-04-21 23:03:58,767 app data inserted in mongodb
+INFO 2023-04-21 23:03:58,855 app fetching video_url
+INFO 2023-04-21 23:03:59,383 app inserting video details in mysql_table
+INFO 2023-04-21 23:03:59,391 app videos data inserted into mysql table
+INFO 2023-04-21 23:03:59,391 app fetching comments commentors on videos
+INFO 2023-04-21 23:03:59,534 app inserting data into Mongodb
+INFO 2023-04-21 23:03:59,606 app data inserted in mongodb
+INFO 2023-04-21 23:03:59,710 app fetching video_url
+INFO 2023-04-21 23:04:00,222 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:00,230 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:00,230 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:00,422 app inserting data into Mongodb
+INFO 2023-04-21 23:04:00,494 app data inserted in mongodb
+INFO 2023-04-21 23:04:00,582 app fetching video_url
+INFO 2023-04-21 23:04:01,110 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:01,110 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:01,110 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:01,230 app inserting data into Mongodb
+INFO 2023-04-21 23:04:01,294 app data inserted in mongodb
+INFO 2023-04-21 23:04:01,382 app fetching video_url
+INFO 2023-04-21 23:04:01,910 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:01,918 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:01,918 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:02,078 app inserting data into Mongodb
+INFO 2023-04-21 23:04:02,150 app data inserted in mongodb
+INFO 2023-04-21 23:04:02,238 app fetching video_url
+INFO 2023-04-21 23:04:02,758 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:02,758 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:02,758 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:02,894 app inserting data into Mongodb
+INFO 2023-04-21 23:04:02,958 app data inserted in mongodb
+INFO 2023-04-21 23:04:03,054 app fetching video_url
+INFO 2023-04-21 23:04:03,662 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:03,670 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:03,670 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:03,790 app inserting data into Mongodb
+INFO 2023-04-21 23:04:03,862 app data inserted in mongodb
+INFO 2023-04-21 23:04:03,950 app fetching video_url
+INFO 2023-04-21 23:04:04,478 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:04,478 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:04,478 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:04,622 app inserting data into Mongodb
+INFO 2023-04-21 23:04:04,691 app data inserted in mongodb
+INFO 2023-04-21 23:04:04,779 app fetching video_url
+INFO 2023-04-21 23:04:05,283 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:05,291 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:05,291 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:05,459 app inserting data into Mongodb
+INFO 2023-04-21 23:04:05,523 app data inserted in mongodb
+INFO 2023-04-21 23:04:05,619 app fetching video_url
+INFO 2023-04-21 23:04:07,383 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:07,391 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:07,391 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:07,543 app inserting data into Mongodb
+INFO 2023-04-21 23:04:07,615 app data inserted in mongodb
+INFO 2023-04-21 23:04:07,711 app fetching video_url
+INFO 2023-04-21 23:04:08,247 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:08,255 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:08,255 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:08,431 app inserting data into Mongodb
+INFO 2023-04-21 23:04:08,503 app data inserted in mongodb
+INFO 2023-04-21 23:04:09,767 app fetching video_url
+INFO 2023-04-21 23:04:10,295 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:10,295 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:10,295 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:10,455 app inserting data into Mongodb
+INFO 2023-04-21 23:04:10,519 app data inserted in mongodb
+INFO 2023-04-21 23:04:10,607 app fetching video_url
+INFO 2023-04-21 23:04:11,136 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:11,144 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:11,144 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:11,272 app inserting data into Mongodb
+INFO 2023-04-21 23:04:11,344 app data inserted in mongodb
+INFO 2023-04-21 23:04:11,440 app fetching video_url
+INFO 2023-04-21 23:04:11,967 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:11,975 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:11,975 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:12,175 app inserting data into Mongodb
+INFO 2023-04-21 23:04:12,303 app data inserted in mongodb
+INFO 2023-04-21 23:04:12,399 app fetching video_url
+INFO 2023-04-21 23:04:12,935 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:12,935 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:12,935 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:13,111 app inserting data into Mongodb
+INFO 2023-04-21 23:04:13,183 app data inserted in mongodb
+INFO 2023-04-21 23:04:13,271 app fetching video_url
+INFO 2023-04-21 23:04:13,815 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:13,815 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:13,815 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:13,951 app inserting data into Mongodb
+INFO 2023-04-21 23:04:14,015 app data inserted in mongodb
+INFO 2023-04-21 23:04:14,111 app fetching video_url
+INFO 2023-04-21 23:04:14,623 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:14,631 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:14,631 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:14,791 app inserting data into Mongodb
+INFO 2023-04-21 23:04:14,863 app data inserted in mongodb
+INFO 2023-04-21 23:04:14,951 app fetching video_url
+INFO 2023-04-21 23:04:15,455 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:15,463 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:15,463 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:15,607 app inserting data into Mongodb
+INFO 2023-04-21 23:04:15,671 app data inserted in mongodb
+INFO 2023-04-21 23:04:15,767 app fetching video_url
+INFO 2023-04-21 23:04:16,287 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:16,295 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:16,295 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:16,415 app inserting data into Mongodb
+INFO 2023-04-21 23:04:16,487 app data inserted in mongodb
+INFO 2023-04-21 23:04:16,575 app fetching video_url
+INFO 2023-04-21 23:04:17,095 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:17,111 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:17,111 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:17,223 app inserting data into Mongodb
+INFO 2023-04-21 23:04:17,287 app data inserted in mongodb
+INFO 2023-04-21 23:04:17,375 app fetching video_url
+INFO 2023-04-21 23:04:17,895 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:17,903 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:17,903 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:18,079 app inserting data into Mongodb
+INFO 2023-04-21 23:04:18,143 app data inserted in mongodb
+INFO 2023-04-21 23:04:18,239 app fetching video_url
+INFO 2023-04-21 23:04:18,750 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:18,758 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:18,758 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:18,878 app inserting data into Mongodb
+INFO 2023-04-21 23:04:18,950 app data inserted in mongodb
+INFO 2023-04-21 23:04:19,038 app fetching video_url
+INFO 2023-04-21 23:04:19,543 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:19,551 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:19,551 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:19,703 app inserting data into Mongodb
+INFO 2023-04-21 23:04:19,775 app data inserted in mongodb
+INFO 2023-04-21 23:04:19,863 app fetching video_url
+INFO 2023-04-21 23:04:20,375 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:20,383 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:20,383 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:20,519 app inserting data into Mongodb
+INFO 2023-04-21 23:04:20,583 app data inserted in mongodb
+INFO 2023-04-21 23:04:20,671 app fetching video_url
+INFO 2023-04-21 23:04:21,183 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:21,191 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:21,191 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:21,335 app inserting data into Mongodb
+INFO 2023-04-21 23:04:21,407 app data inserted in mongodb
+INFO 2023-04-21 23:04:21,495 app fetching video_url
+INFO 2023-04-21 23:04:21,999 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:22,015 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:22,015 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:22,183 app inserting data into Mongodb
+INFO 2023-04-21 23:04:22,247 app data inserted in mongodb
+INFO 2023-04-21 23:04:22,335 app fetching video_url
+INFO 2023-04-21 23:04:22,855 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:22,863 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:22,863 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:22,991 app inserting data into Mongodb
+INFO 2023-04-21 23:04:23,055 app data inserted in mongodb
+INFO 2023-04-21 23:04:23,151 app fetching video_url
+INFO 2023-04-21 23:04:23,678 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:23,678 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:23,678 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:23,814 app inserting data into Mongodb
+INFO 2023-04-21 23:04:23,878 app data inserted in mongodb
+INFO 2023-04-21 23:04:23,974 app fetching video_url
+INFO 2023-04-21 23:04:24,494 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:24,502 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:24,502 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:24,614 app inserting data into Mongodb
+INFO 2023-04-21 23:04:24,678 app data inserted in mongodb
+INFO 2023-04-21 23:04:24,766 app fetching video_url
+INFO 2023-04-21 23:04:25,278 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:25,286 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:25,286 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:25,414 app inserting data into Mongodb
+INFO 2023-04-21 23:04:25,486 app data inserted in mongodb
+INFO 2023-04-21 23:04:25,574 app fetching video_url
+INFO 2023-04-21 23:04:26,054 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:26,062 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:26,062 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:26,182 app inserting data into Mongodb
+INFO 2023-04-21 23:04:26,246 app data inserted in mongodb
+INFO 2023-04-21 23:04:26,342 app fetching video_url
+INFO 2023-04-21 23:04:26,878 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:26,878 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:26,878 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:27,014 app inserting data into Mongodb
+INFO 2023-04-21 23:04:27,078 app data inserted in mongodb
+INFO 2023-04-21 23:04:27,174 app fetching video_url
+INFO 2023-04-21 23:04:27,686 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:27,838 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:27,838 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:27,982 app inserting data into Mongodb
+INFO 2023-04-21 23:04:28,054 app data inserted in mongodb
+INFO 2023-04-21 23:04:28,182 app fetching video_url
+INFO 2023-04-21 23:04:28,678 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:28,678 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:28,678 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:28,838 app inserting data into Mongodb
+INFO 2023-04-21 23:04:28,926 app data inserted in mongodb
+INFO 2023-04-21 23:04:29,014 app fetching video_url
+INFO 2023-04-21 23:04:29,500 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:29,508 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:29,508 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:29,628 app inserting data into Mongodb
+INFO 2023-04-21 23:04:29,692 app data inserted in mongodb
+INFO 2023-04-21 23:04:29,780 app fetching video_url
+INFO 2023-04-21 23:04:30,309 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:30,317 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:30,317 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:30,477 app inserting data into Mongodb
+INFO 2023-04-21 23:04:30,541 app data inserted in mongodb
+INFO 2023-04-21 23:04:30,629 app fetching video_url
+INFO 2023-04-21 23:04:31,141 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:31,149 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:31,149 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:31,269 app inserting data into Mongodb
+INFO 2023-04-21 23:04:31,341 app data inserted in mongodb
+INFO 2023-04-21 23:04:31,429 app fetching video_url
+INFO 2023-04-21 23:04:31,973 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:31,981 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:31,981 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:32,133 app inserting data into Mongodb
+INFO 2023-04-21 23:04:32,205 app data inserted in mongodb
+INFO 2023-04-21 23:04:32,301 app fetching video_url
+INFO 2023-04-21 23:04:32,821 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:32,829 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:32,829 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:32,957 app inserting data into Mongodb
+INFO 2023-04-21 23:04:33,021 app data inserted in mongodb
+INFO 2023-04-21 23:04:33,117 app fetching video_url
+INFO 2023-04-21 23:04:33,637 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:33,644 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:33,644 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:33,772 app inserting data into Mongodb
+INFO 2023-04-21 23:04:33,852 app data inserted in mongodb
+INFO 2023-04-21 23:04:33,948 app fetching video_url
+INFO 2023-04-21 23:04:34,468 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:34,476 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:34,476 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:34,644 app inserting data into Mongodb
+INFO 2023-04-21 23:04:34,772 app data inserted in mongodb
+INFO 2023-04-21 23:04:34,868 app fetching video_url
+INFO 2023-04-21 23:04:35,388 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:35,396 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:35,396 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:35,524 app inserting data into Mongodb
+INFO 2023-04-21 23:04:35,588 app data inserted in mongodb
+INFO 2023-04-21 23:04:35,676 app fetching video_url
+INFO 2023-04-21 23:04:36,196 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:36,204 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:36,204 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:36,316 app inserting data into Mongodb
+INFO 2023-04-21 23:04:36,380 app data inserted in mongodb
+INFO 2023-04-21 23:04:36,476 app fetching video_url
+INFO 2023-04-21 23:04:36,996 app inserting video details in mysql_table
+INFO 2023-04-21 23:04:37,004 app videos data inserted into mysql table
+INFO 2023-04-21 23:04:37,004 app fetching comments commentors on videos
+INFO 2023-04-21 23:04:37,124 app inserting data into Mongodb
+INFO 2023-04-21 23:04:37,196 app data inserted in mongodb
+INFO 2023-04-21 23:04:37,196 app fetching channel_data from mysql_table
+INFO 2023-04-21 23:04:37,212 app channel_sql_data fetched
+INFO 2023-04-21 23:04:37,228 werkzeug 127.0.0.1 - - [21/Apr/2023 23:04:37] "POST /channel HTTP/1.1" 200 -
+INFO 2023-04-21 23:05:02,618 app fetching videos data from mysql_table
+INFO 2023-04-21 23:05:02,634 werkzeug 127.0.0.1 - - [21/Apr/2023 23:05:02] "GET /video HTTP/1.1" 200 -
+INFO 2023-04-21 23:06:12,970 app fetching names and comments from Mongodb using GET method
+INFO 2023-04-21 23:06:13,496 werkzeug 127.0.0.1 - - [21/Apr/2023 23:06:13] "GET /comments HTTP/1.1" 200 -
+INFO 2023-04-21 23:06:22,875 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:06:22,883 werkzeug 127.0.0.1 - - [21/Apr/2023 23:06:22] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:06:28,562 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:06:28,570 werkzeug 127.0.0.1 - - [21/Apr/2023 23:06:28] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:06:31,234 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:06:31,234 werkzeug 127.0.0.1 - - [21/Apr/2023 23:06:31] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:06:32,507 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:06:32,515 werkzeug 127.0.0.1 - - [21/Apr/2023 23:06:32] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:06:35,103 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:06:35,103 werkzeug 127.0.0.1 - - [21/Apr/2023 23:06:35] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:06:36,215 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:06:36,223 werkzeug 127.0.0.1 - - [21/Apr/2023 23:06:36] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:06:47,681 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:06:47,689 werkzeug 127.0.0.1 - - [21/Apr/2023 23:06:47] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:06:52,396 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:06:52,396 werkzeug 127.0.0.1 - - [21/Apr/2023 23:06:52] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:06:52,890 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:06:52,898 werkzeug 127.0.0.1 - - [21/Apr/2023 23:06:52] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:06:56,750 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:06:56,758 werkzeug 127.0.0.1 - - [21/Apr/2023 23:06:56] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:07:40,596 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:07:40,604 werkzeug 127.0.0.1 - - [21/Apr/2023 23:07:40] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:07:53,589 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-21 23:07:53,636 app True
+INFO 2023-04-21 23:07:53,652 app database created
+INFO 2023-04-21 23:07:53,652 app channel table created
+INFO 2023-04-21 23:07:53,652 app videos table created
+INFO 2023-04-21 23:07:53,652 app Connecting to mongodb
+INFO 2023-04-21 23:07:54,964 werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2023-04-21 23:07:54,964 werkzeug [33mPress CTRL+C to quit[0m
+INFO 2023-04-21 23:07:54,964 werkzeug  * Restarting with stat
+INFO 2023-04-21 23:07:56,167 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-21 23:07:56,199 app True
+INFO 2023-04-21 23:07:56,199 app database created
+INFO 2023-04-21 23:07:56,199 app channel table created
+INFO 2023-04-21 23:07:56,199 app videos table created
+INFO 2023-04-21 23:07:56,199 app Connecting to mongodb
+WARNING 2023-04-21 23:07:57,120 werkzeug  * Debugger is active!
+INFO 2023-04-21 23:07:57,136 werkzeug  * Debugger PIN: 481-872-290
+INFO 2023-04-21 23:08:48,962 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-21 23:08:48,994 app True
+INFO 2023-04-21 23:08:48,994 app database created
+INFO 2023-04-21 23:08:48,994 app channel table created
+INFO 2023-04-21 23:08:48,994 app videos table created
+INFO 2023-04-21 23:08:48,994 app Connecting to mongodb
+INFO 2023-04-21 23:08:51,165 werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2023-04-21 23:08:51,165 werkzeug [33mPress CTRL+C to quit[0m
+INFO 2023-04-21 23:08:51,165 werkzeug  * Restarting with stat
+INFO 2023-04-21 23:08:52,322 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-21 23:08:52,337 app True
+INFO 2023-04-21 23:08:52,353 app database created
+INFO 2023-04-21 23:08:52,353 app channel table created
+INFO 2023-04-21 23:08:52,353 app videos table created
+INFO 2023-04-21 23:08:52,353 app Connecting to mongodb
+WARNING 2023-04-21 23:08:53,244 werkzeug  * Debugger is active!
+INFO 2023-04-21 23:08:53,259 werkzeug  * Debugger PIN: 481-872-290
+INFO 2023-04-21 23:09:47,573 werkzeug 127.0.0.1 - - [21/Apr/2023 23:09:47] "GET / HTTP/1.1" 200 -
+INFO 2023-04-21 23:09:48,622 werkzeug 127.0.0.1 - - [21/Apr/2023 23:09:48] "GET / HTTP/1.1" 200 -
+INFO 2023-04-21 23:09:53,193 app ['UCNU_lfiiWBdtULKOw6X0Dig']
+INFO 2023-04-21 23:09:54,099 app fetching video_url
+INFO 2023-04-21 23:09:54,651 app inserting video details in mysql_table
+INFO 2023-04-21 23:09:54,659 app videos data inserted into mysql table
+INFO 2023-04-21 23:09:54,659 app fetching comments commentors on videos
+INFO 2023-04-21 23:09:54,803 app inserting data into Mongodb
+INFO 2023-04-21 23:09:54,883 app data inserted in mongodb
+INFO 2023-04-21 23:09:54,971 app fetching video_url
+INFO 2023-04-21 23:09:55,523 app inserting video details in mysql_table
+INFO 2023-04-21 23:09:55,531 app videos data inserted into mysql table
+INFO 2023-04-21 23:09:55,531 app fetching comments commentors on videos
+INFO 2023-04-21 23:09:55,682 app inserting data into Mongodb
+INFO 2023-04-21 23:09:55,754 app data inserted in mongodb
+INFO 2023-04-21 23:09:55,842 app fetching video_url
+INFO 2023-04-21 23:09:56,418 app inserting video details in mysql_table
+INFO 2023-04-21 23:09:56,426 app videos data inserted into mysql table
+INFO 2023-04-21 23:09:56,426 app fetching comments commentors on videos
+INFO 2023-04-21 23:09:56,626 app inserting data into Mongodb
+INFO 2023-04-21 23:09:56,690 app data inserted in mongodb
+INFO 2023-04-21 23:09:56,786 app fetching video_url
+INFO 2023-04-21 23:09:57,290 app inserting video details in mysql_table
+INFO 2023-04-21 23:09:57,298 app videos data inserted into mysql table
+INFO 2023-04-21 23:09:57,298 app fetching comments commentors on videos
+INFO 2023-04-21 23:09:57,418 app inserting data into Mongodb
+INFO 2023-04-21 23:09:57,482 app data inserted in mongodb
+INFO 2023-04-21 23:09:57,570 app fetching video_url
+INFO 2023-04-21 23:09:58,090 app inserting video details in mysql_table
+INFO 2023-04-21 23:09:58,090 app videos data inserted into mysql table
+INFO 2023-04-21 23:09:58,090 app fetching comments commentors on videos
+INFO 2023-04-21 23:09:58,226 app inserting data into Mongodb
+INFO 2023-04-21 23:09:58,290 app data inserted in mongodb
+INFO 2023-04-21 23:09:58,378 app fetching video_url
+INFO 2023-04-21 23:09:58,898 app inserting video details in mysql_table
+INFO 2023-04-21 23:09:58,906 app videos data inserted into mysql table
+INFO 2023-04-21 23:09:58,906 app fetching comments commentors on videos
+INFO 2023-04-21 23:09:59,074 app inserting data into Mongodb
+INFO 2023-04-21 23:09:59,138 app data inserted in mongodb
+INFO 2023-04-21 23:09:59,266 app fetching video_url
+INFO 2023-04-21 23:09:59,778 app inserting video details in mysql_table
+INFO 2023-04-21 23:09:59,786 app videos data inserted into mysql table
+INFO 2023-04-21 23:09:59,786 app fetching comments commentors on videos
+INFO 2023-04-21 23:09:59,914 app inserting data into Mongodb
+INFO 2023-04-21 23:09:59,986 app data inserted in mongodb
+INFO 2023-04-21 23:10:00,074 app fetching video_url
+INFO 2023-04-21 23:10:00,570 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:00,570 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:00,570 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:00,722 app inserting data into Mongodb
+INFO 2023-04-21 23:10:00,794 app data inserted in mongodb
+INFO 2023-04-21 23:10:00,874 app fetching video_url
+INFO 2023-04-21 23:10:01,402 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:01,410 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:01,410 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:01,562 app inserting data into Mongodb
+INFO 2023-04-21 23:10:01,626 app data inserted in mongodb
+INFO 2023-04-21 23:10:01,722 app fetching video_url
+INFO 2023-04-21 23:10:02,242 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:02,250 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:02,250 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:02,362 app inserting data into Mongodb
+INFO 2023-04-21 23:10:02,442 app data inserted in mongodb
+INFO 2023-04-21 23:10:02,538 app fetching video_url
+INFO 2023-04-21 23:10:03,066 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:03,074 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:03,074 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:03,242 app inserting data into Mongodb
+INFO 2023-04-21 23:10:03,314 app data inserted in mongodb
+INFO 2023-04-21 23:10:03,402 app fetching video_url
+INFO 2023-04-21 23:10:03,914 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:03,922 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:03,922 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:04,066 app inserting data into Mongodb
+INFO 2023-04-21 23:10:04,138 app data inserted in mongodb
+INFO 2023-04-21 23:10:04,234 app fetching video_url
+INFO 2023-04-21 23:10:04,738 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:04,738 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:04,738 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:04,874 app inserting data into Mongodb
+INFO 2023-04-21 23:10:04,946 app data inserted in mongodb
+INFO 2023-04-21 23:10:05,034 app fetching video_url
+INFO 2023-04-21 23:10:05,562 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:05,562 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:05,562 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:05,714 app inserting data into Mongodb
+INFO 2023-04-21 23:10:05,786 app data inserted in mongodb
+INFO 2023-04-21 23:10:05,882 app fetching video_url
+INFO 2023-04-21 23:10:06,402 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:06,410 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:06,410 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:06,562 app inserting data into Mongodb
+INFO 2023-04-21 23:10:06,690 app data inserted in mongodb
+INFO 2023-04-21 23:10:06,818 app fetching video_url
+INFO 2023-04-21 23:10:07,426 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:07,434 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:07,434 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:07,586 app inserting data into Mongodb
+INFO 2023-04-21 23:10:07,658 app data inserted in mongodb
+INFO 2023-04-21 23:10:07,746 app fetching video_url
+INFO 2023-04-21 23:10:08,274 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:08,274 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:08,274 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:08,458 app inserting data into Mongodb
+INFO 2023-04-21 23:10:08,522 app data inserted in mongodb
+INFO 2023-04-21 23:10:08,610 app fetching video_url
+INFO 2023-04-21 23:10:09,137 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:09,145 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:09,145 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:09,329 app inserting data into Mongodb
+INFO 2023-04-21 23:10:09,401 app data inserted in mongodb
+INFO 2023-04-21 23:10:09,489 app fetching video_url
+INFO 2023-04-21 23:10:09,985 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:09,993 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:09,993 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:10,185 app inserting data into Mongodb
+INFO 2023-04-21 23:10:10,249 app data inserted in mongodb
+INFO 2023-04-21 23:10:10,337 app fetching video_url
+INFO 2023-04-21 23:10:10,857 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:10,865 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:10,865 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:11,073 app inserting data into Mongodb
+INFO 2023-04-21 23:10:11,145 app data inserted in mongodb
+INFO 2023-04-21 23:10:11,233 app fetching video_url
+INFO 2023-04-21 23:10:11,753 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:11,753 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:11,753 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:11,929 app inserting data into Mongodb
+INFO 2023-04-21 23:10:12,001 app data inserted in mongodb
+INFO 2023-04-21 23:10:12,089 app fetching video_url
+INFO 2023-04-21 23:10:12,649 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:12,657 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:12,657 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:12,809 app inserting data into Mongodb
+INFO 2023-04-21 23:10:12,881 app data inserted in mongodb
+INFO 2023-04-21 23:10:12,969 app fetching video_url
+INFO 2023-04-21 23:10:13,490 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:13,497 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:13,497 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:13,649 app inserting data into Mongodb
+INFO 2023-04-21 23:10:13,721 app data inserted in mongodb
+INFO 2023-04-21 23:10:13,825 app fetching video_url
+INFO 2023-04-21 23:10:14,369 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:14,369 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:14,369 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:14,513 app inserting data into Mongodb
+INFO 2023-04-21 23:10:14,577 app data inserted in mongodb
+INFO 2023-04-21 23:10:14,673 app fetching video_url
+INFO 2023-04-21 23:10:15,161 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:15,161 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:15,169 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:15,290 app inserting data into Mongodb
+INFO 2023-04-21 23:10:15,362 app data inserted in mongodb
+INFO 2023-04-21 23:10:15,450 app fetching video_url
+INFO 2023-04-21 23:10:15,986 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:15,994 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:15,994 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:16,114 app inserting data into Mongodb
+INFO 2023-04-21 23:10:16,178 app data inserted in mongodb
+INFO 2023-04-21 23:10:16,266 app fetching video_url
+INFO 2023-04-21 23:10:16,762 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:16,770 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:16,770 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:16,890 app inserting data into Mongodb
+INFO 2023-04-21 23:10:16,962 app data inserted in mongodb
+INFO 2023-04-21 23:10:17,058 app fetching video_url
+INFO 2023-04-21 23:10:17,578 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:17,585 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:17,585 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:17,705 app inserting data into Mongodb
+INFO 2023-04-21 23:10:17,777 app data inserted in mongodb
+INFO 2023-04-21 23:10:17,857 app fetching video_url
+INFO 2023-04-21 23:10:18,393 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:18,401 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:18,401 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:18,537 app inserting data into Mongodb
+INFO 2023-04-21 23:10:18,609 app data inserted in mongodb
+INFO 2023-04-21 23:10:18,697 app fetching video_url
+INFO 2023-04-21 23:10:19,241 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:19,249 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:19,249 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:19,409 app inserting data into Mongodb
+INFO 2023-04-21 23:10:19,481 app data inserted in mongodb
+INFO 2023-04-21 23:10:19,569 app fetching video_url
+INFO 2023-04-21 23:10:20,161 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:20,161 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:20,161 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:20,321 app inserting data into Mongodb
+INFO 2023-04-21 23:10:20,394 app data inserted in mongodb
+INFO 2023-04-21 23:10:20,482 app fetching video_url
+INFO 2023-04-21 23:10:21,130 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:21,138 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:21,138 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:21,370 app inserting data into Mongodb
+INFO 2023-04-21 23:10:21,466 app data inserted in mongodb
+INFO 2023-04-21 23:10:21,554 app fetching video_url
+INFO 2023-04-21 23:10:22,114 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:22,121 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:22,121 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:22,249 app inserting data into Mongodb
+INFO 2023-04-21 23:10:22,313 app data inserted in mongodb
+INFO 2023-04-21 23:10:22,401 app fetching video_url
+INFO 2023-04-21 23:10:22,921 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:22,929 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:22,929 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:23,057 app inserting data into Mongodb
+INFO 2023-04-21 23:10:23,129 app data inserted in mongodb
+INFO 2023-04-21 23:10:23,217 app fetching video_url
+INFO 2023-04-21 23:10:23,737 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:23,745 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:23,745 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:23,873 app inserting data into Mongodb
+INFO 2023-04-21 23:10:23,937 app data inserted in mongodb
+INFO 2023-04-21 23:10:24,025 app fetching video_url
+INFO 2023-04-21 23:10:24,561 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:24,569 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:24,569 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:24,937 app inserting data into Mongodb
+INFO 2023-04-21 23:10:25,001 app data inserted in mongodb
+INFO 2023-04-21 23:10:25,097 app fetching video_url
+INFO 2023-04-21 23:10:25,641 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:25,649 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:25,649 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:25,769 app inserting data into Mongodb
+INFO 2023-04-21 23:10:25,833 app data inserted in mongodb
+INFO 2023-04-21 23:10:25,921 app fetching video_url
+INFO 2023-04-21 23:10:26,489 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:26,497 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:26,497 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:26,609 app inserting data into Mongodb
+INFO 2023-04-21 23:10:26,673 app data inserted in mongodb
+INFO 2023-04-21 23:10:26,761 app fetching video_url
+INFO 2023-04-21 23:10:27,273 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:27,281 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:27,281 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:27,409 app inserting data into Mongodb
+INFO 2023-04-21 23:10:27,473 app data inserted in mongodb
+INFO 2023-04-21 23:10:27,561 app fetching video_url
+INFO 2023-04-21 23:10:28,105 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:28,105 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:28,105 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:28,257 app inserting data into Mongodb
+INFO 2023-04-21 23:10:28,329 app data inserted in mongodb
+INFO 2023-04-21 23:10:28,417 app fetching video_url
+INFO 2023-04-21 23:10:28,937 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:28,945 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:28,945 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:29,057 app inserting data into Mongodb
+INFO 2023-04-21 23:10:29,121 app data inserted in mongodb
+INFO 2023-04-21 23:10:29,209 app fetching video_url
+INFO 2023-04-21 23:10:29,729 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:29,737 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:29,737 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:29,865 app inserting data into Mongodb
+INFO 2023-04-21 23:10:29,937 app data inserted in mongodb
+INFO 2023-04-21 23:10:30,025 app fetching video_url
+INFO 2023-04-21 23:10:30,545 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:30,553 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:30,553 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:30,681 app inserting data into Mongodb
+INFO 2023-04-21 23:10:30,745 app data inserted in mongodb
+INFO 2023-04-21 23:10:30,833 app fetching video_url
+INFO 2023-04-21 23:10:31,361 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:31,361 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:31,369 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:31,537 app inserting data into Mongodb
+INFO 2023-04-21 23:10:31,601 app data inserted in mongodb
+INFO 2023-04-21 23:10:31,689 app fetching video_url
+INFO 2023-04-21 23:10:32,225 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:32,233 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:32,233 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:32,353 app inserting data into Mongodb
+INFO 2023-04-21 23:10:32,425 app data inserted in mongodb
+INFO 2023-04-21 23:10:32,521 app fetching video_url
+INFO 2023-04-21 23:10:33,057 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:33,057 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:33,057 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:33,185 app inserting data into Mongodb
+INFO 2023-04-21 23:10:33,249 app data inserted in mongodb
+INFO 2023-04-21 23:10:33,337 app fetching video_url
+INFO 2023-04-21 23:10:33,873 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:33,881 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:33,881 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:34,065 app inserting data into Mongodb
+INFO 2023-04-21 23:10:34,137 app data inserted in mongodb
+INFO 2023-04-21 23:10:34,217 app fetching video_url
+INFO 2023-04-21 23:10:34,738 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:34,746 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:34,746 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:34,874 app inserting data into Mongodb
+INFO 2023-04-21 23:10:34,938 app data inserted in mongodb
+INFO 2023-04-21 23:10:35,026 app fetching video_url
+INFO 2023-04-21 23:10:35,522 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:35,530 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:35,530 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:35,650 app inserting data into Mongodb
+INFO 2023-04-21 23:10:35,714 app data inserted in mongodb
+INFO 2023-04-21 23:10:35,802 app fetching video_url
+INFO 2023-04-21 23:10:36,275 app inserting video details in mysql_table
+INFO 2023-04-21 23:10:36,292 app videos data inserted into mysql table
+INFO 2023-04-21 23:10:36,292 app fetching comments commentors on videos
+INFO 2023-04-21 23:10:36,436 app inserting data into Mongodb
+INFO 2023-04-21 23:10:36,500 app data inserted in mongodb
+INFO 2023-04-21 23:10:36,500 app fetching channel_data from mysql_table
+INFO 2023-04-21 23:10:36,500 app channel_sql_data fetched
+INFO 2023-04-21 23:10:36,508 werkzeug 127.0.0.1 - - [21/Apr/2023 23:10:36] "POST /channel HTTP/1.1" 200 -
+INFO 2023-04-21 23:10:42,459 app fetching videos data from mysql_table
+INFO 2023-04-21 23:10:42,475 werkzeug 127.0.0.1 - - [21/Apr/2023 23:10:42] "GET /video HTTP/1.1" 200 -
+INFO 2023-04-21 23:10:49,230 app fetching names and comments from Mongodb using GET method
+INFO 2023-04-21 23:10:49,590 werkzeug 127.0.0.1 - - [21/Apr/2023 23:10:49] "GET /comments HTTP/1.1" 200 -
+INFO 2023-04-21 23:10:58,929 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:10:58,937 werkzeug 127.0.0.1 - - [21/Apr/2023 23:10:58] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:11:01,511 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:11:01,511 werkzeug 127.0.0.1 - - [21/Apr/2023 23:11:01] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:11:02,883 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:11:02,883 werkzeug 127.0.0.1 - - [21/Apr/2023 23:11:02] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:11:03,834 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:11:03,834 werkzeug 127.0.0.1 - - [21/Apr/2023 23:11:03] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:11:07,644 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:11:07,652 werkzeug 127.0.0.1 - - [21/Apr/2023 23:11:07] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:11:09,943 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:11:09,951 werkzeug 127.0.0.1 - - [21/Apr/2023 23:11:09] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:11:11,277 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:11:11,277 werkzeug 127.0.0.1 - - [21/Apr/2023 23:11:11] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:11:12,253 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:11:12,253 werkzeug 127.0.0.1 - - [21/Apr/2023 23:11:12] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:11:15,215 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:11:15,223 werkzeug 127.0.0.1 - - [21/Apr/2023 23:11:15] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:11:16,673 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:11:16,673 werkzeug 127.0.0.1 - - [21/Apr/2023 23:11:16] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:11:17,822 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:11:17,822 werkzeug 127.0.0.1 - - [21/Apr/2023 23:11:17] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:11:18,862 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:11:18,862 werkzeug 127.0.0.1 - - [21/Apr/2023 23:11:18] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-21 23:15:49,902 werkzeug  * Detected change in 'C:\\Users\\Lenovo\\PycharmProjects\\pythonProject5\\app.py', reloading
+INFO 2023-04-21 23:15:50,534 werkzeug  * Restarting with stat
+INFO 2023-04-21 23:15:55,416 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-21 23:15:55,485 app True
+INFO 2023-04-21 23:15:55,493 app database created
+INFO 2023-04-21 23:15:55,493 app channel table created
+INFO 2023-04-21 23:15:55,493 app videos table created
+INFO 2023-04-21 23:15:55,493 app Connecting to mongodb
+WARNING 2023-04-21 23:15:56,796 werkzeug  * Debugger is active!
+INFO 2023-04-21 23:15:56,863 werkzeug  * Debugger PIN: 481-872-290
+INFO 2023-04-21 23:16:18,506 werkzeug  * Detected change in 'C:\\Users\\Lenovo\\PycharmProjects\\pythonProject5\\app.py', reloading
+INFO 2023-04-21 23:16:19,037 werkzeug  * Restarting with stat
+INFO 2023-04-21 23:16:20,484 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-21 23:16:20,517 app True
+INFO 2023-04-21 23:16:20,524 app database created
+INFO 2023-04-21 23:16:20,524 app channel table created
+INFO 2023-04-21 23:16:20,524 app videos table created
+INFO 2023-04-21 23:16:20,524 app Connecting to mongodb
+WARNING 2023-04-21 23:16:21,333 werkzeug  * Debugger is active!
+INFO 2023-04-21 23:16:21,341 werkzeug  * Debugger PIN: 481-872-290
+INFO 2023-04-21 23:16:35,822 werkzeug  * Detected change in 'C:\\Users\\Lenovo\\PycharmProjects\\pythonProject5\\app.py', reloading
+INFO 2023-04-21 23:16:36,408 werkzeug  * Restarting with stat
+INFO 2023-04-21 23:16:38,239 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-21 23:16:38,297 app True
+INFO 2023-04-21 23:16:38,304 app database created
+INFO 2023-04-21 23:16:38,305 app channel table created
+INFO 2023-04-21 23:16:38,305 app videos table created
+INFO 2023-04-21 23:16:38,305 app Connecting to mongodb
+WARNING 2023-04-21 23:16:39,402 werkzeug  * Debugger is active!
+INFO 2023-04-21 23:16:39,409 werkzeug  * Debugger PIN: 481-872-290
+INFO 2023-04-21 23:16:44,905 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:16:44,952 werkzeug 127.0.0.1 - - [21/Apr/2023 23:16:44] "[35m[1mGET /download_images HTTP/1.1[0m" 500 -
+INFO 2023-04-21 23:16:45,020 werkzeug 127.0.0.1 - - [21/Apr/2023 23:16:45] "GET /download_images?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2023-04-21 23:16:45,029 werkzeug 127.0.0.1 - - [21/Apr/2023 23:16:45] "GET /download_images?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2023-04-21 23:16:45,210 werkzeug 127.0.0.1 - - [21/Apr/2023 23:16:45] "GET /download_images?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2023-04-21 23:16:45,237 werkzeug 127.0.0.1 - - [21/Apr/2023 23:16:45] "[36mGET /download_images?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO 2023-04-21 23:17:32,539 werkzeug  * Detected change in 'C:\\Users\\Lenovo\\PycharmProjects\\pythonProject5\\app.py', reloading
+INFO 2023-04-21 23:17:33,113 werkzeug  * Restarting with stat
+INFO 2023-04-21 23:17:34,683 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-21 23:17:34,713 app True
+INFO 2023-04-21 23:17:34,721 app database created
+INFO 2023-04-21 23:17:34,721 app channel table created
+INFO 2023-04-21 23:17:34,721 app videos table created
+INFO 2023-04-21 23:17:34,721 app Connecting to mongodb
+WARNING 2023-04-21 23:17:35,980 werkzeug  * Debugger is active!
+INFO 2023-04-21 23:17:35,987 werkzeug  * Debugger PIN: 481-872-290
+INFO 2023-04-21 23:17:36,060 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:17:36,092 werkzeug 127.0.0.1 - - [21/Apr/2023 23:17:36] "[35m[1mGET /download_images HTTP/1.1[0m" 500 -
+INFO 2023-04-21 23:17:36,137 werkzeug 127.0.0.1 - - [21/Apr/2023 23:17:36] "[36mGET /download_images?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO 2023-04-21 23:17:36,137 werkzeug 127.0.0.1 - - [21/Apr/2023 23:17:36] "[36mGET /download_images?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO 2023-04-21 23:17:36,179 werkzeug 127.0.0.1 - - [21/Apr/2023 23:17:36] "[36mGET /download_images?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO 2023-04-21 23:17:36,211 werkzeug 127.0.0.1 - - [21/Apr/2023 23:17:36] "[36mGET /download_images?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO 2023-04-21 23:17:57,732 werkzeug  * Detected change in 'C:\\Users\\Lenovo\\PycharmProjects\\pythonProject5\\app.py', reloading
+INFO 2023-04-21 23:17:58,310 werkzeug  * Restarting with stat
+INFO 2023-04-21 23:18:00,294 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-21 23:18:00,325 app True
+INFO 2023-04-21 23:18:00,325 app database created
+INFO 2023-04-21 23:18:00,325 app channel table created
+INFO 2023-04-21 23:18:00,325 app videos table created
+INFO 2023-04-21 23:18:00,325 app Connecting to mongodb
+WARNING 2023-04-21 23:18:01,216 werkzeug  * Debugger is active!
+INFO 2023-04-21 23:18:01,247 werkzeug  * Debugger PIN: 481-872-290
+INFO 2023-04-21 23:18:20,242 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-21 23:18:20,264 werkzeug 127.0.0.1 - - [21/Apr/2023 23:18:20] "GET /download_images HTTP/1.1" 200 -
+INFO 2023-04-22 12:38:21,289 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-22 12:38:21,383 app True
+INFO 2023-04-22 12:38:21,414 app database created
+INFO 2023-04-22 12:38:21,414 app channel table created
+INFO 2023-04-22 12:38:21,414 app videos table created
+INFO 2023-04-22 12:38:21,414 app Connecting to mongodb
+INFO 2023-04-22 12:38:23,086 werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2023-04-22 12:38:23,086 werkzeug [33mPress CTRL+C to quit[0m
+INFO 2023-04-22 12:38:23,086 werkzeug  * Restarting with stat
+INFO 2023-04-22 12:38:24,570 googleapiclient.discovery_cache file_cache is only supported with oauth2client<4.0.0
+INFO 2023-04-22 12:38:24,602 app True
+INFO 2023-04-22 12:38:24,617 app database created
+INFO 2023-04-22 12:38:24,617 app channel table created
+INFO 2023-04-22 12:38:24,617 app videos table created
+INFO 2023-04-22 12:38:24,617 app Connecting to mongodb
+WARNING 2023-04-22 12:38:25,664 werkzeug  * Debugger is active!
+INFO 2023-04-22 12:38:25,680 werkzeug  * Debugger PIN: 481-872-290
+INFO 2023-04-22 12:38:56,257 werkzeug 127.0.0.1 - - [22/Apr/2023 12:38:56] "GET / HTTP/1.1" 200 -
+INFO 2023-04-22 12:38:56,810 werkzeug 127.0.0.1 - - [22/Apr/2023 12:38:56] "GET / HTTP/1.1" 200 -
+INFO 2023-04-22 12:38:57,427 werkzeug 127.0.0.1 - - [22/Apr/2023 12:38:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2023-04-22 12:39:03,094 app ['UCNU_lfiiWBdtULKOw6X0Dig']
+INFO 2023-04-22 12:39:04,122 app fetching video_url
+INFO 2023-04-22 12:39:04,677 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:04,682 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:04,682 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:04,902 app inserting data into Mongodb
+INFO 2023-04-22 12:39:04,988 app data inserted in mongodb
+INFO 2023-04-22 12:39:05,105 app fetching video_url
+INFO 2023-04-22 12:39:05,620 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:05,625 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:05,626 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:05,860 app inserting data into Mongodb
+INFO 2023-04-22 12:39:05,936 app data inserted in mongodb
+INFO 2023-04-22 12:39:06,060 app fetching video_url
+INFO 2023-04-22 12:39:06,578 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:06,582 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:06,582 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:06,852 app inserting data into Mongodb
+INFO 2023-04-22 12:39:06,927 app data inserted in mongodb
+INFO 2023-04-22 12:39:07,038 app fetching video_url
+INFO 2023-04-22 12:39:07,536 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:07,540 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:07,540 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:07,743 app inserting data into Mongodb
+INFO 2023-04-22 12:39:07,813 app data inserted in mongodb
+INFO 2023-04-22 12:39:07,935 app fetching video_url
+INFO 2023-04-22 12:39:08,471 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:08,474 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:08,474 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:08,792 app inserting data into Mongodb
+INFO 2023-04-22 12:39:08,878 app data inserted in mongodb
+INFO 2023-04-22 12:39:08,999 app fetching video_url
+INFO 2023-04-22 12:39:09,487 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:09,492 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:09,492 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:09,684 app inserting data into Mongodb
+INFO 2023-04-22 12:39:09,762 app data inserted in mongodb
+INFO 2023-04-22 12:39:09,878 app fetching video_url
+INFO 2023-04-22 12:39:10,403 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:10,407 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:10,407 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:10,580 app inserting data into Mongodb
+INFO 2023-04-22 12:39:10,654 app data inserted in mongodb
+INFO 2023-04-22 12:39:10,770 app fetching video_url
+INFO 2023-04-22 12:39:11,304 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:11,310 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:11,311 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:11,531 app inserting data into Mongodb
+INFO 2023-04-22 12:39:11,611 app data inserted in mongodb
+INFO 2023-04-22 12:39:11,733 app fetching video_url
+INFO 2023-04-22 12:39:12,274 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:12,278 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:12,278 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:12,574 app inserting data into Mongodb
+INFO 2023-04-22 12:39:12,876 app data inserted in mongodb
+INFO 2023-04-22 12:39:13,240 app fetching video_url
+INFO 2023-04-22 12:39:13,756 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:13,760 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:13,760 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:14,002 app inserting data into Mongodb
+INFO 2023-04-22 12:39:14,072 app data inserted in mongodb
+INFO 2023-04-22 12:39:14,178 app fetching video_url
+INFO 2023-04-22 12:39:14,711 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:14,721 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:14,721 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:14,979 app inserting data into Mongodb
+INFO 2023-04-22 12:39:15,058 app data inserted in mongodb
+INFO 2023-04-22 12:39:15,179 app fetching video_url
+INFO 2023-04-22 12:39:15,685 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:15,690 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:15,691 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:15,908 app inserting data into Mongodb
+INFO 2023-04-22 12:39:16,005 app data inserted in mongodb
+INFO 2023-04-22 12:39:16,128 app fetching video_url
+INFO 2023-04-22 12:39:16,637 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:16,641 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:16,641 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:16,862 app inserting data into Mongodb
+INFO 2023-04-22 12:39:16,941 app data inserted in mongodb
+INFO 2023-04-22 12:39:17,065 app fetching video_url
+INFO 2023-04-22 12:39:17,640 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:17,645 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:17,645 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:17,866 app inserting data into Mongodb
+INFO 2023-04-22 12:39:17,942 app data inserted in mongodb
+INFO 2023-04-22 12:39:18,055 app fetching video_url
+INFO 2023-04-22 12:39:18,577 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:18,582 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:18,582 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:18,831 app inserting data into Mongodb
+INFO 2023-04-22 12:39:18,906 app data inserted in mongodb
+INFO 2023-04-22 12:39:19,009 app fetching video_url
+INFO 2023-04-22 12:39:19,565 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:19,568 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:19,569 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:19,827 app inserting data into Mongodb
+INFO 2023-04-22 12:39:19,902 app data inserted in mongodb
+INFO 2023-04-22 12:39:20,014 app fetching video_url
+INFO 2023-04-22 12:39:20,514 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:20,518 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:20,518 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:20,849 app inserting data into Mongodb
+INFO 2023-04-22 12:39:20,930 app data inserted in mongodb
+INFO 2023-04-22 12:39:21,037 app fetching video_url
+INFO 2023-04-22 12:39:21,536 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:21,543 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:21,544 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:21,774 app inserting data into Mongodb
+INFO 2023-04-22 12:39:21,849 app data inserted in mongodb
+INFO 2023-04-22 12:39:21,960 app fetching video_url
+INFO 2023-04-22 12:39:22,670 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:22,676 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:22,677 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:22,844 app inserting data into Mongodb
+INFO 2023-04-22 12:39:22,919 app data inserted in mongodb
+INFO 2023-04-22 12:39:23,036 app fetching video_url
+INFO 2023-04-22 12:39:23,636 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:23,641 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:23,641 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:24,051 app inserting data into Mongodb
+INFO 2023-04-22 12:39:24,844 app data inserted in mongodb
+INFO 2023-04-22 12:39:25,090 app fetching video_url
+INFO 2023-04-22 12:39:25,608 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:25,611 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:25,611 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:25,879 app inserting data into Mongodb
+INFO 2023-04-22 12:39:26,031 app data inserted in mongodb
+INFO 2023-04-22 12:39:26,140 app fetching video_url
+INFO 2023-04-22 12:39:26,701 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:26,708 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:26,708 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:26,882 app inserting data into Mongodb
+INFO 2023-04-22 12:39:26,956 app data inserted in mongodb
+INFO 2023-04-22 12:39:27,068 app fetching video_url
+INFO 2023-04-22 12:39:27,610 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:27,616 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:27,617 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:27,855 app inserting data into Mongodb
+INFO 2023-04-22 12:39:27,931 app data inserted in mongodb
+INFO 2023-04-22 12:39:28,037 app fetching video_url
+INFO 2023-04-22 12:39:28,582 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:28,591 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:28,592 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:28,766 app inserting data into Mongodb
+INFO 2023-04-22 12:39:28,842 app data inserted in mongodb
+INFO 2023-04-22 12:39:28,952 app fetching video_url
+INFO 2023-04-22 12:39:29,434 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:29,438 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:29,439 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:29,643 app inserting data into Mongodb
+INFO 2023-04-22 12:39:29,720 app data inserted in mongodb
+INFO 2023-04-22 12:39:29,827 app fetching video_url
+INFO 2023-04-22 12:39:30,312 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:30,317 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:30,317 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:30,461 app inserting data into Mongodb
+INFO 2023-04-22 12:39:30,531 app data inserted in mongodb
+INFO 2023-04-22 12:39:30,640 app fetching video_url
+INFO 2023-04-22 12:39:31,191 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:31,195 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:31,195 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:31,383 app inserting data into Mongodb
+INFO 2023-04-22 12:39:31,456 app data inserted in mongodb
+INFO 2023-04-22 12:39:31,573 app fetching video_url
+INFO 2023-04-22 12:39:32,104 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:32,107 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:32,107 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:32,301 app inserting data into Mongodb
+INFO 2023-04-22 12:39:32,377 app data inserted in mongodb
+INFO 2023-04-22 12:39:32,490 app fetching video_url
+INFO 2023-04-22 12:39:33,035 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:33,046 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:33,047 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:33,239 app inserting data into Mongodb
+INFO 2023-04-22 12:39:33,311 app data inserted in mongodb
+INFO 2023-04-22 12:39:33,434 app fetching video_url
+INFO 2023-04-22 12:39:33,963 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:33,981 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:33,982 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:34,141 app inserting data into Mongodb
+INFO 2023-04-22 12:39:34,213 app data inserted in mongodb
+INFO 2023-04-22 12:39:34,326 app fetching video_url
+INFO 2023-04-22 12:39:34,835 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:34,838 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:34,838 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:35,007 app inserting data into Mongodb
+INFO 2023-04-22 12:39:35,079 app data inserted in mongodb
+INFO 2023-04-22 12:39:35,200 app fetching video_url
+INFO 2023-04-22 12:39:35,750 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:35,762 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:35,762 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:35,918 app inserting data into Mongodb
+INFO 2023-04-22 12:39:35,989 app data inserted in mongodb
+INFO 2023-04-22 12:39:36,106 app fetching video_url
+INFO 2023-04-22 12:39:36,623 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:36,626 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:36,626 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:36,797 app inserting data into Mongodb
+INFO 2023-04-22 12:39:36,869 app data inserted in mongodb
+INFO 2023-04-22 12:39:36,976 app fetching video_url
+INFO 2023-04-22 12:39:37,506 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:37,511 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:37,511 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:37,716 app inserting data into Mongodb
+INFO 2023-04-22 12:39:37,791 app data inserted in mongodb
+INFO 2023-04-22 12:39:37,897 app fetching video_url
+INFO 2023-04-22 12:39:38,450 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:38,455 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:38,455 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:38,636 app inserting data into Mongodb
+INFO 2023-04-22 12:39:38,708 app data inserted in mongodb
+INFO 2023-04-22 12:39:38,816 app fetching video_url
+INFO 2023-04-22 12:39:39,379 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:39,385 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:39,386 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:39,563 app inserting data into Mongodb
+INFO 2023-04-22 12:39:39,634 app data inserted in mongodb
+INFO 2023-04-22 12:39:39,748 app fetching video_url
+INFO 2023-04-22 12:39:40,274 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:40,278 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:40,278 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:40,459 app inserting data into Mongodb
+INFO 2023-04-22 12:39:40,531 app data inserted in mongodb
+INFO 2023-04-22 12:39:40,639 app fetching video_url
+INFO 2023-04-22 12:39:41,249 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:41,255 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:41,255 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:41,437 app inserting data into Mongodb
+INFO 2023-04-22 12:39:41,514 app data inserted in mongodb
+INFO 2023-04-22 12:39:41,624 app fetching video_url
+INFO 2023-04-22 12:39:42,312 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:42,318 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:42,319 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:42,472 app inserting data into Mongodb
+INFO 2023-04-22 12:39:42,551 app data inserted in mongodb
+INFO 2023-04-22 12:39:42,760 app fetching video_url
+INFO 2023-04-22 12:39:43,278 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:43,284 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:43,285 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:43,553 app inserting data into Mongodb
+INFO 2023-04-22 12:39:43,698 app data inserted in mongodb
+INFO 2023-04-22 12:39:43,819 app fetching video_url
+INFO 2023-04-22 12:39:44,398 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:44,404 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:44,405 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:44,638 app inserting data into Mongodb
+INFO 2023-04-22 12:39:44,710 app data inserted in mongodb
+INFO 2023-04-22 12:39:44,817 app fetching video_url
+INFO 2023-04-22 12:39:45,350 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:45,356 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:45,357 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:45,565 app inserting data into Mongodb
+INFO 2023-04-22 12:39:45,634 app data inserted in mongodb
+INFO 2023-04-22 12:39:45,740 app fetching video_url
+INFO 2023-04-22 12:39:46,269 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:46,274 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:46,274 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:46,487 app inserting data into Mongodb
+INFO 2023-04-22 12:39:46,560 app data inserted in mongodb
+INFO 2023-04-22 12:39:46,670 app fetching video_url
+INFO 2023-04-22 12:39:47,290 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:47,294 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:47,294 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:47,512 app inserting data into Mongodb
+INFO 2023-04-22 12:39:47,588 app data inserted in mongodb
+INFO 2023-04-22 12:39:47,696 app fetching video_url
+INFO 2023-04-22 12:39:48,215 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:48,220 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:48,221 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:48,395 app inserting data into Mongodb
+INFO 2023-04-22 12:39:48,468 app data inserted in mongodb
+INFO 2023-04-22 12:39:48,576 app fetching video_url
+INFO 2023-04-22 12:39:49,099 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:49,105 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:49,106 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:49,263 app inserting data into Mongodb
+INFO 2023-04-22 12:39:49,337 app data inserted in mongodb
+INFO 2023-04-22 12:39:49,444 app fetching video_url
+INFO 2023-04-22 12:39:49,955 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:49,959 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:49,959 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:50,242 app inserting data into Mongodb
+INFO 2023-04-22 12:39:50,318 app data inserted in mongodb
+INFO 2023-04-22 12:39:50,423 app fetching video_url
+INFO 2023-04-22 12:39:50,945 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:50,951 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:50,951 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:51,146 app inserting data into Mongodb
+INFO 2023-04-22 12:39:51,218 app data inserted in mongodb
+INFO 2023-04-22 12:39:51,323 app fetching video_url
+INFO 2023-04-22 12:39:51,831 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:51,837 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:51,838 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:52,003 app inserting data into Mongodb
+INFO 2023-04-22 12:39:52,073 app data inserted in mongodb
+INFO 2023-04-22 12:39:52,181 app fetching video_url
+INFO 2023-04-22 12:39:52,712 app inserting video details in mysql_table
+INFO 2023-04-22 12:39:52,717 app videos data inserted into mysql table
+INFO 2023-04-22 12:39:52,718 app fetching comments commentors on videos
+INFO 2023-04-22 12:39:52,899 app inserting data into Mongodb
+INFO 2023-04-22 12:39:52,977 app data inserted in mongodb
+INFO 2023-04-22 12:39:52,977 app fetching channel_data from mysql_table
+INFO 2023-04-22 12:39:52,982 app channel_sql_data fetched
+INFO 2023-04-22 12:39:53,028 werkzeug 127.0.0.1 - - [22/Apr/2023 12:39:53] "POST /channel HTTP/1.1" 200 -
+INFO 2023-04-22 12:40:30,858 app fetching videos data from mysql_table
+INFO 2023-04-22 12:40:30,889 werkzeug 127.0.0.1 - - [22/Apr/2023 12:40:30] "GET /video HTTP/1.1" 200 -
+INFO 2023-04-22 12:40:39,084 app fetching names and comments from Mongodb using GET method
+INFO 2023-04-22 12:40:39,488 werkzeug 127.0.0.1 - - [22/Apr/2023 12:40:39] "GET /comments HTTP/1.1" 200 -
+INFO 2023-04-22 12:40:49,253 app fetching thumbnails_url from mysql_table using GET method
+INFO 2023-04-22 12:40:49,281 werkzeug 127.0.0.1 - - [22/Apr/2023 12:40:49] "GET /download_images HTTP/1.1" 200 -

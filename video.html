@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <title>videos</title>
+    <style>
+		table {
+			border-collapse: collapse;
+			border: 2px solid black;
+		}
+		th, td {
+			border: 2px solid black;
+			padding: 4px;
+		}
+		body {
+    background:linear-gradient(to top right, #33ccff 0%, #ffffff 100% );
+}
+		h2{text-align:center;}
+	</style>
+
+
+</head>
+<body oncontextmenu="return false">
+
+        <h2>Youtube_Video_Statistics</h2>
+        <a href="/comments"><h4 style="text-align:right;">click here to view names and comments</h4></a>
+
+    <table class="center">
+          <tr>
+            <th>Sl_no</th>
+              <th>video_id</th>
+            <th>Video_title</th>
+            <th>Video_link</th>
+            <th>Views</th>
+            <th>Likes</th>
+            <th>num_comments</th>
+          </tr>
+        {% for item in data %}
+        <tr>
+            <td style="text-align:center;">{{item[0]}}
+            <td>{{item[1]}}</td>
+            <td>{{item[2]}}</td>
+            <td><a href="{{item[3]}}">click here to watch video</a></td>
+            <td style="text-align:center;">{{item[5]}}</td>
+            <td style="text-align:center;">{{item[6]}}</td>
+            <td style="text-align:center;">{{item[7]}}</td>
+        </tr>
+            {% endfor %}
+    </table>
+        <a href="/comments"><h4>click here to view names and comments</h4></a>
+</body>
+</html>

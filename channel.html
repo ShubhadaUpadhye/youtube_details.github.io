@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>channel</title>
+    <style>
+    table {
+			border-collapse: collapse;
+			border: 2px solid black;
+		}
+		th, td {
+			border: 2px solid black;
+			padding: 5px;
+		}
+    body {
+			 background:linear-gradient(to left,#EDE574 0%,#E1F5C4 100%);
+		}
+
+		h2{text-align:center;}
+	</style>
+</head>
+<body>
+
+        <h2>Youtube_Channel_Statistics</h2>
+
+
+    <table align="center">
+          <tr >
+            <th>Sl_no</th>
+            <th>channel_name</th>
+            <th>channel_id</th>
+            <th>channel_video_count</th>
+            <th>channel_subscribers</th>
+             <th>channel_view_count</th>
+          </tr>
+        {% for item in chan_sql_data %}
+        <tr>
+            <td style="text-align:center;">{{item[0]}}</td>
+            <td style="text-align:center;">{{item[1]}}</td>
+            <td style="text-align:center;">{{item[2]}}</td>
+            <td style="text-align:center;">{{item[3]}}</td>
+            <td style="text-align:center;">{{item[4]}}</td>
+            <td style="text-align:center;">{{item[5]}}</td>
+
+        </tr>
+            {% endfor %}
+    </table>
+        <a href="/video"><h4 align="center">click here to view Videos_Statistics</h4></a>
+
+</body>
+</html>
